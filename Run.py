@@ -1,3 +1,3 @@
-import SXB
-Premium64.approval()
+import SXB64
+SXB64.approval()
  
