@@ -1,3 +1,3 @@
-import SXB32
+import SXB
 Premium32.approval()
  
