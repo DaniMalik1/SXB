@@ -1,3 +1,3 @@
-import SXB64
-SXB64.approval()
+import SXB 
+SXB.Main()
  
